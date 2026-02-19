@@ -1,0 +1,1239 @@
+﻿Original Query,Total Steps,Step 1,Step 2,Step 3,Step 4,Step 5,Step 6,Step 7,Step 8,Step 9,Step 10,Final Answer
+Can people who have celiac eat camel meat?,4,"<think>I need to determine if people who have celiac can eat camel meat. I'll search for it.</think>
+
+<search> can people who have celiac eat camel meat </search>
+
+
+<information>
+Doc 1 (Title: Camel)
+Content: whole. The ancient Roman emperor Heliogabalus enjoyed camel's heel. Camel meat is mainly eaten in certain regions, including Eritrea, Somalia, Djibouti, Saudi Arabia, Egypt, Syria, Libya, Sudan, Ethiopia, Kazakhstan, and other arid regions where alternative forms of protein may be limited or where camel meat has had a long cultural history. Camel blood is also consumable, as is the case among pastoralists in northern Kenya, where camel blood is drunk with milk and acts as a key source of iron, vitamin D, salts and minerals. Camel meat is also occasionally found in Australian cuisine: for example, a camel lasagna is
+
+Doc 2 (Title: ""Gluten-free diet"")
+Content: Gluten-free diet A gluten-free diet (GFD) is a diet that strictly excludes gluten, a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids (such as spelt, kamut, and triticale). The inclusion of oats in a gluten-free diet remains controversial, and may depend on the oat cultivar and the frequent cross-contamination with other gluten-containing cereals. Gluten causes health problems for those with gluten-related disorders, including coeliac disease (CD), non-coeliac gluten sensitivity (NCGS), gluten ataxia, dermatitis herpetiformis (DH), and wheat allergy. In these people, the gluten-free diet is demonstrated as an effective
+
+Doc 3 (Title: ""Coeliac disease"")
+Content: microscopic colitis, gluten ataxia, psoriasis, vitiligo, autoimmune hepatitis, dermatitis herpetiformis, primary sclerosing cholangitis, and more. Coeliac disease is caused by a reaction to gliadins and glutenins (gluten proteins) found in wheat, and similar proteins found in the crops of the tribe Triticeae (which includes other common grains such as barley and rye) and the tribe Aveneae (oats). Wheat subspecies (such as spelt, durum and Kamut) and wheat hybrids (such as triticale) also induce symptoms of coeliac disease. A small number of people with coeliac react to oats. Oats toxicity in coeliac people depends on the oat cultivar consumed because of
+
+</information>
+
+","<think>I found out that people with celiac disease need to avoid gluten. Now I need to find if camel meat contains gluten or not.</think>
+
+<search> gluten in camel meat </search>
+
+
+<information>
+Doc 1 (Title: Gluten)
+Content: vigorously to induce it to rise to its full capacity; an automatic bread machine or food processor may be required for high-gluten kneading. Generally, higher gluten levels are associated with higher overall protein content. Gluten, especially wheat gluten, is often the basis for imitation meats resembling beef, chicken, duck (see mock duck), fish and pork. When cooked in broth, gluten absorbs some of the surrounding liquid (including the flavor) and becomes firm to the bite. This use of gluten is a popular means of adding supplemental protein and variety to many vegetarian diets. Gluten is often present in beer and
+
+Doc 2 (Title: ""Gluten-free diet"")
+Content: Gluten-free diet A gluten-free diet (GFD) is a diet that strictly excludes gluten, a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids (such as spelt, kamut, and triticale). The inclusion of oats in a gluten-free diet remains controversial, and may depend on the oat cultivar and the frequent cross-contamination with other gluten-containing cereals. Gluten causes health problems for those with gluten-related disorders, including coeliac disease (CD), non-coeliac gluten sensitivity (NCGS), gluten ataxia, dermatitis herpetiformis (DH), and wheat allergy. In these people, the gluten-free diet is demonstrated as an effective
+
+Doc 3 (Title: ""Wheat gluten (food)"")
+Content: Wheat gluten (food) Wheat gluten is a food made from gluten, the main protein of wheat. It is made by washing wheat flour dough with water until all the starch granules have been removed, leaving the sticky insoluble gluten as an elastic mass which is then cooked before being eaten. Wheat gluten is an alternative to soybean-based foods such as tofu, which are sometimes used as meat substitutes. Some types of wheat gluten have a chewy or stringy texture that resembles meat more than other substitutes. Wheat gluten is often used instead of meat in Asian, vegetarian, Buddhist, and macrobiotic
+
+</information>
+
+","<think>I found out that gluten is a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids. Now I need to find if camel meat contains gluten or not.</think>
+
+<search> contains gluten in camel meat </search>
+
+
+<information>
+Doc 1 (Title: Gluten)
+Content: vigorously to induce it to rise to its full capacity; an automatic bread machine or food processor may be required for high-gluten kneading. Generally, higher gluten levels are associated with higher overall protein content. Gluten, especially wheat gluten, is often the basis for imitation meats resembling beef, chicken, duck (see mock duck), fish and pork. When cooked in broth, gluten absorbs some of the surrounding liquid (including the flavor) and becomes firm to the bite. This use of gluten is a popular means of adding supplemental protein and variety to many vegetarian diets. Gluten is often present in beer and
+
+Doc 2 (Title: ""Gluten-free diet"")
+Content: Gluten-free diet A gluten-free diet (GFD) is a diet that strictly excludes gluten, a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids (such as spelt, kamut, and triticale). The inclusion of oats in a gluten-free diet remains controversial, and may depend on the oat cultivar and the frequent cross-contamination with other gluten-containing cereals. Gluten causes health problems for those with gluten-related disorders, including coeliac disease (CD), non-coeliac gluten sensitivity (NCGS), gluten ataxia, dermatitis herpetiformis (DH), and wheat allergy. In these people, the gluten-free diet is demonstrated as an effective
+
+Doc 3 (Title: ""Gluten-free diet"")
+Content: food bearing the claim in its labelling may not contain: Any food product that inherently does not contain gluten may use a gluten-free label where any unavoidable presence of gluten in the food bearing the claim in its labelling is below 20 ppm gluten. Gluten-free diet A gluten-free diet (GFD) is a diet that strictly excludes gluten, a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids (such as spelt, kamut, and triticale). The inclusion of oats in a gluten-free diet remains controversial, and may depend on the oat cultivar
+
+</information>
+
+","<think>I found out that gluten is a mixture of proteins found in wheat and related grains, including barley, rye, oat, and all their species and hybrids. Now I need to find if camel meat contains gluten or not. Camel meat does not contain gluten.</think>
+
+<answer> yes </answer>",,,,,,,yes
+The material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?,4,"<think>I need to find out if the Great Sphinx of Giza is made of a specific mineral. I'll search for it.</think>
+
+<search>The material out of which the Great Sphinx of Giza is made of</search>
+
+
+<information>
+Doc 1 (Title: ""Great Sphinx of Giza"")
+Content: (mostly caused by wind and windblown sand), leading to the uneven degradation apparent in the Sphinx's body. The lowest part of the body, including the legs, is solid rock. The body of the lion up to its neck is fashioned from softer layers that have suffered considerable disintegration. The layer in which the head was sculpted is much harder. The Great Sphinx is one of the world's largest and oldest statues, but basic facts about it are still subject to debate, such as when it was built, by whom and for what purpose. It is impossible to identify what name
+
+Doc 2 (Title: ""Great Sphinx of Giza"")
+Content: layers of blocks. It measures long from paw to tail, high from the base to the top of the head and wide at its rear haunches. It is the oldest known monumental sculpture in Egypt and is commonly believed to have been built by ancient Egyptians of the Old Kingdom during the reign of the Pharaoh Khafre (). The Sphinx is a monolith carved into the bedrock of the plateau, which also served as the quarry for the pyramids and other monuments in the area. The nummulitic limestone of the area consists of layers which offer differing resistance to erosion
+
+Doc 3 (Title: ""Great Sphinx of Giza"")
+Content: Great Sphinx of Giza The Great Sphinx of Giza (, , ; literally: Father of Dread), commonly referred to as the Sphinx of Giza or just the Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human. Facing directly from West to East, it stands on the Giza Plateau on the west bank of the Nile in Giza, Egypt. The face of the Sphinx is generally believed to represent the Pharaoh Khafre. Cut from the bedrock, the original shape of the Sphinx has been restored with
+
+</information>
+
+","<think>I found out that the Great Sphinx of Giza is made of limestone. Now I need to find the main mineral composed of the limestone.</think>
+
+<search>Limestone main mineral</search>
+
+
+<information>
+Doc 1 (Title: Limestone)
+Content: as white pigment or filler in products such as toothpaste or paints, as a chemical feedstock for the production of lime, as a soil conditioner, or as a popular decorative addition to rock gardens. Like most other sedimentary rocks, most limestone is composed of grains. Most grains in limestone are skeletal fragments of marine organisms such as coral or foraminifera. These organisms secrete shells made of aragonite or calcite, and leave these shells behind when they die. Other carbonate grains comprising limestones are ooids, peloids, intraclasts, and extraclasts. Limestone often contains variable amounts of silica in the form of chert
+
+Doc 2 (Title: Limestone)
+Content: Limestone Limestone is a sedimentary rock, composed mainly of skeletal fragments of marine organisms such as coral, forams and molluscs. Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO). About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock. Limestone has numerous uses: as a building material, an essential component of concrete (Portland cement), as aggregate for the base of roads,
+
+Doc 3 (Title: Limestone)
+Content: 5 mg/m respiratory exposure over an 8-hour workday. The National Institute for Occupational Safety and Health (NIOSH) has set a recommended exposure limit (REL) of 10 mg/m total exposure and 5 mg/m respiratory exposure over an 8-hour workday. The cyanobacterium ""Hyella balani"" can bore through limestone; as can the green alga ""Eugamantia sacculata"" and the fungus ""Ostracolaba implexa"". Limestone Limestone is a sedimentary rock, composed mainly of skeletal fragments of marine organisms such as coral, forams and molluscs. Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO). About 10% of sedimentary
+
+</information>
+
+","<think>I found out that the Great Sphinx of Giza is made of limestone. Now I need to find the main mineral composed of limestone.</think>
+
+<search>Main mineral composed of limestone</search>
+
+
+<information>
+Doc 1 (Title: Limestone)
+Content: Limestone Limestone is a sedimentary rock, composed mainly of skeletal fragments of marine organisms such as coral, forams and molluscs. Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO). About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock. Limestone has numerous uses: as a building material, an essential component of concrete (Portland cement), as aggregate for the base of roads,
+
+Doc 2 (Title: Limestone)
+Content: as white pigment or filler in products such as toothpaste or paints, as a chemical feedstock for the production of lime, as a soil conditioner, or as a popular decorative addition to rock gardens. Like most other sedimentary rocks, most limestone is composed of grains. Most grains in limestone are skeletal fragments of marine organisms such as coral or foraminifera. These organisms secrete shells made of aragonite or calcite, and leave these shells behind when they die. Other carbonate grains comprising limestones are ooids, peloids, intraclasts, and extraclasts. Limestone often contains variable amounts of silica in the form of chert
+
+Doc 3 (Title: Limestone)
+Content: 5 mg/m respiratory exposure over an 8-hour workday. The National Institute for Occupational Safety and Health (NIOSH) has set a recommended exposure limit (REL) of 10 mg/m total exposure and 5 mg/m respiratory exposure over an 8-hour workday. The cyanobacterium ""Hyella balani"" can bore through limestone; as can the green alga ""Eugamantia sacculata"" and the fungus ""Ostracolaba implexa"". Limestone Limestone is a sedimentary rock, composed mainly of skeletal fragments of marine organisms such as coral, forams and molluscs. Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO). About 10% of sedimentary
+
+</information>
+
+","<think>I found out that the main mineral composed of limestone is calcite and aragonite. Now I can provide the answer.</think>
+
+<answer> calcite </answer>",,,,,,,calcite
+The husband of Lady Godiva was Earl of which Anglic kingdom?,4,"<think>I need to find out which Anglic kingdom Earl of which Anglic kingdom. I'll search for it.</think>
+
+<search>The husband of Lady Godiva was Earl of which Anglic kingdom</search>
+
+
+<information>
+Doc 1 (Title: ""Godgifu, daughter of Æthelred the Unready"")
+Content: Godgifu, daughter of Æthelred the Unready Goda of England or Godgifu; (; the Old English name Godgifu or Godgyfu meant ""gift of God"", Godiva was the Latinised version; 1004 – c. 1047) was the daughter of King Ethelred the Unready and his second wife Emma of Normandy, and sister of King Edward the Confessor. She married firstly Drogo of Mantes, count of the Véxin, probably on 7 April 1024, and had sons by him: She married secondly Eustace II, Count of Boulogne in 1035. This marriage was childless. After the Norman conquest of England by William the Conqueror, the lands
+
+Doc 2 (Title: ""Godiva Procession"")
+Content: Godiva Procession The Godiva Procession is an annual procession in the city of Coventry, England, which re-enacts the story of Lady Godiva. They have been held in Coventry since the 17th century. The first written record of the Godiva Processions is in the Coventry City Annals of 1678. These celebrate and re-enact Godiva's legendary naked ride through Coventry, undertaken to persuade her husband to free the people of the city from the burden of oppressive tolls. Although Godiva certainly existed, the historicity of the ride itself is debated. Godiva, or Godgifu, meaning 'God's Gift', was the wife of Leofric, Earl
+
+Doc 3 (Title: ""Godgifu, daughter of Æthelred the Unready"")
+Content: owned by Goda in Buckinghamshire were given to the Flemish-Norman knight Bertram de Verdun, lord of Farnham Royal, and the Breton knight Raoul, count of Fougères. Godgifu, daughter of Æthelred the Unready Goda of England or Godgifu; (; the Old English name Godgifu or Godgyfu meant ""gift of God"", Godiva was the Latinised version; 1004 – c. 1047) was the daughter of King Ethelred the Unready and his second wife Emma of Normandy, and sister of King Edward the Confessor. She married firstly Drogo of Mantes, count of the Véxin, probably on 7 April 1024, and had sons by him:
+
+</information>
+
+","<think>I found out that the husband of Lady Godiva was Earl of which Anglic kingdom. Now I need to find out which kingdom it was.</think>
+
+<search>which Anglic kingdom was Earl of Leofric</search>
+
+
+<information>
+Doc 1 (Title: ""Leofric, Earl of Mercia"")
+Content: Leofric, Earl of Mercia Leofric (died 31 August or 30 September 1057) was an Earl of Mercia. He founded monasteries at Coventry and Much Wenlock. Leofric is most remembered as the husband of Lady Godiva. Leofric was the son of Leofwine, Ealdorman of the Hwicce, who witnessed a charter in 997 for King Æthelred II. Leofric had three brothers: Northman, Edwin and Godwine. It is likely that Northman is the same as ""Northman Miles"" (""Northman the knight"") to whom King Æthelred II granted the village of Twywell in Northamptonshire in 1013 . Northman, according to the Chronicle of Crowland Abbey,
+
+Doc 2 (Title: Leod)
+Content: but also in Orkney, Shetland, England, Norway, and Sweden. In consequence, the study concluded that the genetic origin of Clan MacLeod likely lies in Scandinavia. Leod Leod (Scottish Gaelic: Leòd; Old Norse: Ljótr) ( 1200 – 1280) is considered the eponymous ancestor and founder of Clan MacLeod and Clan MacLeod of Lewis. Almost nothing is known about him and he does not appear in any contemporary records. Tradition dating to the late 18th century made him a son of Olaf the Black who was King of Man (r. 1225–1237). Heraldic evidence, dating to the late 17th century, is considered to
+
+Doc 3 (Title: ""Leofric, Earl of Mercia"")
+Content: wryly comments ""And then when they had done most harm, it was decided to reinstate Earl Ælfgar"". Leofric died in 1057 at his estate at Kings Bromley in Staffordshire. According to the ""Anglo-Saxon Chronicle"", he died on 30 September, but the chronicler of Worcester gives the date as 31 August. Both agree that he was buried at Coventry. Leofric was succeeded by his son Ælfgar as earl. Earl Leofric and Godiva were noted for great generosity to religious houses. In 1043 he founded and endowed a Benedictine monastery at Coventry. John of Worcester tells us that ""He and his wife,
+
+</information>
+
+","<think>I found out that the husband of Lady Godiva was Leofric. Now I need to find out which Anglic kingdom it was.</think>
+
+<search>which Anglic kingdom was Earl of Mercia</search>
+
+
+<information>
+Doc 1 (Title: ""Earl of Mercia"")
+Content: Earl of Mercia Earl of Mercia was a title in the late Anglo-Saxon, Anglo-Danish, and early Anglo-Norman period in England. During this period the earldom covered the lands of the old Kingdom of Mercia in the English Midlands. First governed by ealdormen under the kings of Wessex in the 10th century, it became an earldom in the Anglo-Danish period. During the time of King Edward the earldom was held by Leofric and his family, who were political rivals to the House of Godwine. Following the Conquest in 1066 Edwin was confirmed as earl by King William. However he was implicated
+
+Doc 2 (Title: ""Earl of Mercia"")
+Content: in the rebellion of 1071 and was dispossessed. Following the death of Edwin the earldom was broken up, the power and regional jurisdiction of the earl passing to the newly formed earldoms of Chester and later Shrewsbury. Earl of Mercia Earl of Mercia was a title in the late Anglo-Saxon, Anglo-Danish, and early Anglo-Norman period in England. During this period the earldom covered the lands of the old Kingdom of Mercia in the English Midlands. First governed by ealdormen under the kings of Wessex in the 10th century, it became an earldom in the Anglo-Danish period. During the time of
+
+Doc 3 (Title: Mercia)
+Content: in 1016, when the kingdom was divided between Cnut and Edmund Ironside, Cnut taking Mercia. The last reference to Mercia by name is in the annal for 1017, when Eadric Streona was awarded the government of Mercia by Cnut. The later earls, Leofric, Ælfgar and Edwin, ruled over a territory broadly corresponding to historic Mercia, but the Chronicle does not identify it by name. The Mercians as a people are last mentioned in the annal for 1049. The dialect thrived between the 8th and 13th centuries and was referred to by John Trevisa, writing in 1387: J. R. R. Tolkien
+
+</information>
+
+","<think>I found out that the husband of Lady Godiva was Earl of Mercia. Now I can provide the answer.</think>
+
+<answer> Mercia </answer>",,,,,,,Mercia
+The main actor of Indiana Jones is a licensed what?,4,"<think>I need to find out if the main actor of Indiana Jones is a licensed what. I'll search for it.</think>
+
+<search>The main actor of Indiana Jones</search>
+
+
+<information>
+Doc 1 (Title: ""Harrison Ford"")
+Content: Award in 2009, the Wright Brothers Memorial Trophy in 2010, and the Al Ueltschi Humanitarian Award in 2013. In 2013, ""Flying Magazine"" ranked him number 48 on their list of the 51 Heroes of Aviation. Harrison Ford Harrison Ford (born July 13, 1942) is an American actor, writer and film producer. He gained worldwide fame for his starring roles as Han Solo in the ""Star Wars"" film series and as the title character of the ""Indiana Jones"" film series. Five of his movies are within the 30 top-grossing movies of all time at the US box office (when adjusted for
+
+Doc 2 (Title: ""Indiana Jones"")
+Content: other media. Jones is also featured in several Disney theme parks, including the Indiana Jones Adventure, Indiana Jones et le Temple du Péril, and ""Epic Stunt Spectacular!"" attractions. Jones is most famously portrayed by Harrison Ford and has also been portrayed by River Phoenix (as the young Jones in ""The Last Crusade"") and in the television series ""The Young Indiana Jones Chronicles"" by Corey Carrier, Sean Patrick Flanery, and George Hall. Doug Lee has supplied the voice of Jones for two LucasArts video games, ""Indiana Jones and the Fate of Atlantis"" and ""Indiana Jones and the Infernal Machine"", David Esch
+
+Doc 3 (Title: ""Indiana Jones"")
+Content: supplied his voice for ""Indiana Jones and the Emperor's Tomb"", and John Armstrong for ""Indiana Jones and the Staff of Kings"". Jones is characterized by his iconic accoutrements (bullwhip, fedora, satchel, and leather jacket), wry sense of humor, deep knowledge of ancient civilizations and languages, and fear of snakes. Since his first appearance in ""Raiders of the Lost Ark"", Indiana Jones has become one of cinema's most famous characters. In 2003, the American Film Institute ranked him the second greatest film hero of all time. He was also named the 1st Greatest Movie Character by ""Empire"" magazine. ""Entertainment Weekly"" ranked
+
+</information>
+
+","<think>I found out that the main actor of Indiana Jones is Harrison Ford. Now I need to find out if he is a licensed what.</think>
+
+<search>Harrison Ford licensed what</search>
+
+
+<information>
+Doc 1 (Title: ""Harrison Ford"")
+Content: in London, he herniated a disc in his back, forcing him to fly back to Los Angeles for an operation. He returned six weeks later. On June 11, 2014, Ford injured his ankle during filming of """". He was airlifted to John Radcliffe Hospital in Oxford, England. Ford is a licensed pilot of both fixed-wing aircraft and helicopters, and owns an ranch in Jackson, Wyoming, approximately half of which he has donated as a nature reserve. On several occasions, Ford has personally provided emergency helicopter services at the request of local authorities, in one instance rescuing a hiker overcome by
+
+Doc 2 (Title: ""Harrison Ford"")
+Content: first role as a voice actor in an animated film, The Secret Life of Pets 2. That same year, with filming for a fifth Indiana Jones film having been delayed by a year, he also agreed to headline a big-budget adaptation of Jack London's The Call of the Wild, playing prospector John Thornton. Ford is one of Hollywood's most private actors, guarding much of his personal life. He has two sons, Benjamin Ford (born 1966) and Willard Ford (born 1969) who has one son, Film-maker Eliel Ford and niece model , with his first wife, Mary Marquardt or Mary Ford
+
+Doc 3 (Title: ""Harrison Ford"")
+Content: Award in 2009, the Wright Brothers Memorial Trophy in 2010, and the Al Ueltschi Humanitarian Award in 2013. In 2013, ""Flying Magazine"" ranked him number 48 on their list of the 51 Heroes of Aviation. Harrison Ford Harrison Ford (born July 13, 1942) is an American actor, writer and film producer. He gained worldwide fame for his starring roles as Han Solo in the ""Star Wars"" film series and as the title character of the ""Indiana Jones"" film series. Five of his movies are within the 30 top-grossing movies of all time at the US box office (when adjusted for
+
+</information>
+
+","<think>I found out that the main actor of Indiana Jones is Harrison Ford. Now I need to find out if he is a licensed what. I'll search for it.</think>
+
+<search>Harrison Ford licensed</search>
+
+
+<information>
+Doc 1 (Title: ""Harrison Ford"")
+Content: in London, he herniated a disc in his back, forcing him to fly back to Los Angeles for an operation. He returned six weeks later. On June 11, 2014, Ford injured his ankle during filming of """". He was airlifted to John Radcliffe Hospital in Oxford, England. Ford is a licensed pilot of both fixed-wing aircraft and helicopters, and owns an ranch in Jackson, Wyoming, approximately half of which he has donated as a nature reserve. On several occasions, Ford has personally provided emergency helicopter services at the request of local authorities, in one instance rescuing a hiker overcome by
+
+Doc 2 (Title: ""Harrison Ford"")
+Content: Award in 2009, the Wright Brothers Memorial Trophy in 2010, and the Al Ueltschi Humanitarian Award in 2013. In 2013, ""Flying Magazine"" ranked him number 48 on their list of the 51 Heroes of Aviation. Harrison Ford Harrison Ford (born July 13, 1942) is an American actor, writer and film producer. He gained worldwide fame for his starring roles as Han Solo in the ""Star Wars"" film series and as the title character of the ""Indiana Jones"" film series. Five of his movies are within the 30 top-grossing movies of all time at the US box office (when adjusted for
+
+Doc 3 (Title: ""Harrison Ford"")
+Content: Harrison Ford Harrison Ford (born July 13, 1942) is an American actor, writer and film producer. He gained worldwide fame for his starring roles as Han Solo in the ""Star Wars"" film series and as the title character of the ""Indiana Jones"" film series. Five of his movies are within the 30 top-grossing movies of all time at the US box office (when adjusted for inflation). Ford is also known for playing Rick Deckard in the neo-noir dystopian science fiction film ""Blade Runner"" (1982) and its sequel ""Blade Runner 2049"" (2017); John Book in the thriller ""Witness"" (1985), for which
+
+</information>
+
+","<think>I found out that the main actor of Indiana Jones is Harrison Ford. Now I need to find out if he is a licensed what. I found out that Harrison Ford is a licensed pilot.</think>
+
+<answer> pilot </answer>",,,,,,,pilot
+When was the person after which the Hubble Space Telescope is named after born?,4,"<think>I need to find out when the person after which the Hubble Space Telescope is named after was born. I'll search for it.</think>
+
+<search>Hubble Space Telescope is named after</search>
+
+
+<information>
+Doc 1 (Title: ""Hubble Space Telescope"")
+Content: Hubble Space Telescope The Hubble Space Telescope (HST) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. Although not the first space telescope, Hubble is one of the largest and most versatile and is well known as both a vital research tool and a public relations boon for astronomy. The HST is named after the astronomer Edwin Hubble and is one of NASA's Great Observatories, along with the Compton Gamma Ray Observatory, the Chandra X-ray Observatory and the Spitzer Space Telescope. With a mirror, Hubble's four main instruments observe in the near
+
+Doc 2 (Title: ""Unmanned NASA missions"")
+Content: Telescope (HST) is a space telescope that was carried into orbit by a Space Shuttle in April 1990. It is named after American astronomer Edwin Hubble. Although not the first space telescope, Hubble is one of the largest and most versatile, and is well known as both a vital research tool and a public relations boon for astronomy. The HST is a collaboration between NASA and the European Space Agency, and is one of NASA's Great Observatories, along with the Compton Gamma Ray Observatory, the Chandra X-ray Observatory, and the Spitzer Space Telescope. The HST's success has paved the way
+
+Doc 3 (Title: ""Hubble Space Telescope"")
+Content: These are often European in origin, and so increase awareness of both ESA's Hubble share (15%) and the contribution of European scientists to the observatory. ESA produces educational material, including a videocast series called Hubblecast designed to share world-class scientific news with the public. The Hubble Space Telescope has won two Space Achievement Awards from the Space Foundation, for its outreach activities, in 2001 and 2010. A replica of the Hubble Space Telescope is on the courthouse lawn in Marshfield, Missouri, the hometown of namesake Edwin P. Hubble. The Hubble Space Telescope celebrated its 20th anniversary in space on April
+
+</information>
+
+","<think>I found out that the Hubble Space Telescope is named after Edwin Hubble. Now I need to find out when he was born.</think>
+
+<search>Edwin Hubble born</search>
+
+
+<information>
+Doc 1 (Title: ""Edwin Hubble House"")
+Content: Edwin Hubble House The Edwin Hubble House is a historic house at 1340 Woodstock Road, in San Marino, California. Built in 1925, it was the home of astronomer Edwin Hubble (1889-1953) for most of his professional life. Hubble is renowned as one of the greatest astronomers of the 20th century, whose discoveries revolutionized the science. His home, still a private residence, was declared a National Historic Landmark in 1976. The Edwin Hubble House is located in a residential area of western San Marino, on the east side of Woodstock Road near its cul-de-sac end. It is a two-story Mission Revival
+
+Doc 2 (Title: ""Edwin Hubble House"")
+Content: the distance of remote objects. His discovery of increasing redshift in the light spectra emitted by distant objects is a major piece of evidence that the universe is expanding. The Hubble House remained in the family until about 1973. It is still a private residence. Edwin Hubble House The Edwin Hubble House is a historic house at 1340 Woodstock Road, in San Marino, California. Built in 1925, it was the home of astronomer Edwin Hubble (1889-1953) for most of his professional life. Hubble is renowned as one of the greatest astronomers of the 20th century, whose discoveries revolutionized the science.
+
+Doc 3 (Title: ""Edwin Hubble"")
+Content: Edwin Hubble Edwin Powell Hubble (November 20, 1889 – September 28, 1953) was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology and is regarded as one of the most important astronomers of all time. Hubble discovered that many objects previously thought to be clouds of dust and gas and classified as ""nebulae"" were actually galaxies beyond the Milky Way. He used the strong direct relationship between a classical Cepheid variable's luminosity and pulsation period (discovered in 1908 by Henrietta Swan Leavitt) for scaling galactic and extragalactic distances. Hubble provided evidence
+
+</information>
+
+","<think>I found out that the Hubble Space Telescope is named after Edwin Hubble. Now I need to find out when he was born.</think>
+
+<search>Edwin Hubble born</search>
+
+
+<information>
+Doc 1 (Title: ""Edwin Hubble House"")
+Content: Edwin Hubble House The Edwin Hubble House is a historic house at 1340 Woodstock Road, in San Marino, California. Built in 1925, it was the home of astronomer Edwin Hubble (1889-1953) for most of his professional life. Hubble is renowned as one of the greatest astronomers of the 20th century, whose discoveries revolutionized the science. His home, still a private residence, was declared a National Historic Landmark in 1976. The Edwin Hubble House is located in a residential area of western San Marino, on the east side of Woodstock Road near its cul-de-sac end. It is a two-story Mission Revival
+
+Doc 2 (Title: ""Edwin Hubble House"")
+Content: the distance of remote objects. His discovery of increasing redshift in the light spectra emitted by distant objects is a major piece of evidence that the universe is expanding. The Hubble House remained in the family until about 1973. It is still a private residence. Edwin Hubble House The Edwin Hubble House is a historic house at 1340 Woodstock Road, in San Marino, California. Built in 1925, it was the home of astronomer Edwin Hubble (1889-1953) for most of his professional life. Hubble is renowned as one of the greatest astronomers of the 20th century, whose discoveries revolutionized the science.
+
+Doc 3 (Title: ""Edwin Hubble"")
+Content: Edwin Hubble Edwin Powell Hubble (November 20, 1889 – September 28, 1953) was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology and is regarded as one of the most important astronomers of all time. Hubble discovered that many objects previously thought to be clouds of dust and gas and classified as ""nebulae"" were actually galaxies beyond the Milky Way. He used the strong direct relationship between a classical Cepheid variable's luminosity and pulsation period (discovered in 1908 by Henrietta Swan Leavitt) for scaling galactic and extragalactic distances. Hubble provided evidence
+
+</information>
+
+","<think>I found out that the Hubble Space Telescope is named after Edwin Hubble. Now I need to find out when he was born. I found out that Edwin Hubble was born on November 20, 1889.</think>
+
+<answer> November 20, 1889 </answer>",,,,,,,"November 20, 1889"
+What is the capital of the country where yoga originated?,4,"<think>I need to find the capital of the country where yoga originated. I'll search for it.</think>
+
+<search> yoga originated </search>
+
+
+<information>
+Doc 1 (Title: Yoga)
+Content: Yoga Yoga (; ; ) is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. Yoga is one of the six orthodox schools of Hindu philosophical traditions. There is a broad variety of yoga schools, practices, and goals in Hinduism, Buddhism, and Jainism. The term ""yoga"" in the Western world often denotes a modern form of Hatha yoga, which includes the physical practice of postures called asanas. The origins of yoga have been speculated to date back to pre-Vedic Indian traditions; it is mentioned in the Rigveda, but most likely developed around the sixth
+
+Doc 2 (Title: Yoga)
+Content: male and particularly female deities, transgressive life stage related rituals, extensive use of chakras and mantras, and sexual techniques, all aimed to help one's health, long life and liberation. The origins of yoga are a matter of debate. There is no consensus on its chronology or specific origin other than that yoga developed in ancient India. Suggested origins are the Indus Valley Civilization (3300–1900 BCE) and pre-Vedic Eastern states of India, the Vedic period (1500–500 BCE), and the śramaṇa movement. According to Gavin Flood, continuities may exist between those various traditions: Pre-philosophical speculations of yoga begin to emerge in the
+
+Doc 3 (Title: Yoga)
+Content: texts of . Between 200 BCE and 500 CE, philosophical schools of Hinduism, Buddhism, and Jainism were taking form and a coherent philosophical system of yoga began to emerge. The Middle Ages saw the development of many satellite traditions of yoga. Yoga came to the attention of an educated western public in the mid 19th century along with other topics of Indian philosophy. Yoga may have pre-Vedic elements. Some state yoga originated in the Indus Valley Civilization. Marshall, Eliade and other scholars note that the Pashupati seal discovered in an Indus Valley Civilization site depicts a figure in a position
+
+</information>
+
+","<think>I found out that yoga originated in ancient India. Now I need to find the capital of the country where yoga originated.</think>
+
+<search> capital of the country where yoga originated </search>
+
+
+<information>
+Doc 1 (Title: Yoga)
+Content: been criticized by Darul Uloom Deoband, a Deobandi Islamic seminary in India. Similar fatwas banning yoga, for its link to Hinduism, were issued by the Grand Mufti Ali Gomaa in Egypt in 2004, and by Islamic clerics in Singapore earlier. In Iran, as of May 2014, according to its Yoga Association, there were approximately 200 yoga centres in the country, a quarter of them in the capital Tehran, where groups can often be seen practising in parks. This has been met by opposition among conservatives. In May 2009, Turkey's head of the Directorate of Religious Affairs, Ali Bardakoğlu, discounted personal
+
+Doc 2 (Title: ""Yōga, Tokyo"")
+Content: Yōga, Tokyo Two traffic cameras on top of the SBS tower overlook the junction, the Yōga toll gate, and other parts of the neighborhood. Several major offices are in Yōga: In the Edo period, Yōga was a post-town on the Ōyama Kaidō, a road connecting Edo and Ōyama Mountain in Sagami Province. The name comes from Sanskrit root of the word ""yoga"". The Buddhist temple Shinpuku-ji chose the Sanskrit-derived appellation Yuga-san. The Sanskrit is also the root of the word ""yoga"" (योग→瑜伽→用賀). Yōga is home to Kinuta Park, a broad green space established in 1957. The park is located 10
+
+Doc 3 (Title: ""Jivamukti Yoga"")
+Content: To teach the Jivamukti Yoga method in one of its centers, an instructor is first required to go through rigorous training and to pass a series of examinations. Jivamukti Yoga's full program centers are located in the United States (New York City, Jersey City, and Washington D.C.), Germany (Munich, Berlin, and Schloss Elmau), the United Kingdom (London), and Mexico (Puebla). Its affiliate centers are located in Australia, Germany, Greece, Japan, Luxembourg, the Netherlands, Norway, Russia, South Africa, Spain, Switzerland, and the United States. Jivamukti Yoga School NYC, the Jivamukti Yoga school located at Union Square in Manhattan, has been featured
+
+</information>
+
+","<think>I found out that yoga originated in ancient India. Now I need to find the capital of India.</think>
+
+<search> capital of India </search>
+
+
+<information>
+Doc 1 (Title: ""New Delhi"")
+Content: New Delhi New Delhi () is an urban district of Delhi which serves as the capital of India and seat of all three branches of the Government of India. The foundation stone of the city was laid by Emperor George V during the Delhi Durbar of 1911. It was designed by British architects, Sir Edwin Lutyens and Sir Herbert Baker. The new capital was inaugurated on 13 February 1931, by Viceroy and Governor-General of India Lord Irwin. Although colloquially ""Delhi"" and ""New Delhi"" are used interchangeably to refer to the National Capital Territory of Delhi (NCT), these are two distinct
+
+Doc 2 (Title: Gandhinagar)
+Content: Gandhinagar Gandhinagar () is the capital of the state of Gujarat in Western India. Gandhinagar is located approximately 23 km north of Ahmedabad, on the west central point of the Industrial corridor between Delhi, the political capital of India, and Mumbai, the financial capital of India. Gandhinagar, Gujarat's new capital city, lies on the west bank of the Sabarmati River, about 545 km (338 miles) north of Mumbai, the financial capital of India and 901 km (560 miles) southwest of Delhi, the political capital. There is a provision of parks, extensive planting and a recreational area along the river giving
+
+Doc 3 (Title: Delhi)
+Content: Professional Sports Teams from Delhi Government General information Delhi Delhi (, ""Dilli""), officially the National Capital Territory of Delhi (NCT), is a city and a union territory of India containing New Delhi, the capital of India. It is bordered by Haryana on three sides and by Uttar Pradesh to the east. The NCT covers an area of . According to the 2011 census, Delhi's city proper population was over 11 million, the second-highest in India after Mumbai, while the whole NCT's population was about 16.8 million. Delhi's urban area is now considered to extend beyond the NCT boundaries and include
+
+</information>
+
+","<think>I found out that yoga originated in ancient India. Now I need to find the capital of India. I found out that the capital of India is New Delhi.</think>
+
+<answer> New Delhi </answer>",,,,,,,New Delhi
+The fourth largest city in Germany was originally called what?,4,"<think>I need to find out if the fourth largest city in Germany was originally called what. I'll search for it.</think>
+
+<search>The fourth largest city in Germany</search>
+
+
+<information>
+Doc 1 (Title: Essen)
+Content: Essen Essen (; Latin: ""Assindia"") is the central and second largest city of the Ruhr, the largest urban area in Germany. Its population of approximately 589,000 () makes it the ninth largest city of Germany, as well as the fourth largest city of the federal state of North Rhine-Westphalia. On the Ruhr and Emscher rivers, Essen geographically is part of the Rhineland and the larger Rhine-Ruhr Metropolitan Region. The Ruhrdeutsch regiolect spoken in the region has strong influences of both Low German (Westphalian) and Low Franconian (East Bergish). Essen is seat to several of the region's authorities, as well as
+
+Doc 2 (Title: Cologne)
+Content: Cologne Cologne (; , , ) is the largest city of Germany's most populous federal state of North Rhine-Westphalia, and its 1,075,935 (2016) inhabitants make it the fourth most populous city in Germany after Berlin, Hamburg, and Munich. The largest city on the Rhine, it is also the most populous city both of the Rhine-Ruhr Metropolitan Region, which is Germany's largest and one of Europe's major metropolitan areas, and of the Rhineland. Centred on the left bank of the Rhine, Cologne is about southeast of North Rhine-Westphalia's capital of Düsseldorf and northwest of Bonn. It is the largest city in
+
+Doc 3 (Title: Rhine-Ruhr)
+Content: Rhine-Ruhr The Rhine-Ruhr metropolitan region () is the largest metropolitan region in Germany with over 10 million inhabitants. It is of polycentric nature. It covers an area of and lies entirely within the federal state of North Rhine-Westphalia. The Rhine-Ruhr metropolitan region spreads from Dortmund-Bochum-Essen-Duisburg (Ruhr Area) in the north, to the urban areas of the cities of Mönchengladbach, Düsseldorf (the state capital), Wuppertal, Leverkusen, Cologne (the region's largest and Germany's fourth largest city), and Bonn in the south. The location of the Rhine-Ruhr at the heart of the European blue banana makes it well connected to other major European
+
+</information>
+
+","<think>I found out that the fourth largest city in Germany is Cologne. Now I need to find out if it was originally called what.</think>
+
+<search>Cologne was originally called what</search>
+
+
+<information>
+Doc 1 (Title: Cologne)
+Content: common joke of Kölsch being the only language one can drink. Cologne is also famous for Eau de Cologne (German: ""Kölnisch Wasser""; lit: ""Water of Cologne""), a perfume created by Italian expatriate Johann Maria Farina at the beginning of the 18th century. During the 18th century, this perfume became increasingly popular, was exported all over Europe by the Farina family and ""Farina"" became a household name for ""Eau de Cologne"". In 1803 Wilhelm Mülhens entered into a contract with an unrelated person from Italy named Carlo Francesco Farina who granted him the right to use his family name and Mühlens
+
+Doc 2 (Title: ""Eau de Cologne"")
+Content: Eau de Cologne Eau de Cologne (; German: Kölnisch Wasser ; meaning ""Water from Cologne""), or simply cologne, is a perfume originating from Cologne, Germany. Originally mixed by Johann Maria Farina in 1709, it has since come to be a generic term for scented formulations in typical concentration of 2–5% and also more depending upon its type essential oils or a blend of extracts, alcohol, and water. In a base of dilute ethanol (70–90%), eau de cologne contains a mixture of citrus oils including oils of lemon, orange, tangerine, clementine, bergamot, lime, grapefruit, blood orange, and bitter orange. It can
+
+Doc 3 (Title: Cologne)
+Content: is Düsseldorf Airport. Cologne was founded and established in Ubii territory in the 1st century AD as the Roman ""Colonia Claudia Ara Agrippinensium"", the first word of which is the origin of its name. An alternative Latin name of the settlement is ""Augusta Ubiorum"", after the Ubii. ""Cologne"", the French version of the city's name, has become standard in English as well. The city functioned as the capital of the Roman province of ""Germania Inferior"" and as the headquarters of the Roman military in the region until occupied by the Franks in 462. During the Middle Ages it flourished on
+
+</information>
+
+","<think>I found out that the fourth largest city in Germany is Cologne. Now I need to find out if it was originally called what.</think>
+
+<search>Cologne was originally called what</search>
+
+
+<information>
+Doc 1 (Title: Cologne)
+Content: common joke of Kölsch being the only language one can drink. Cologne is also famous for Eau de Cologne (German: ""Kölnisch Wasser""; lit: ""Water of Cologne""), a perfume created by Italian expatriate Johann Maria Farina at the beginning of the 18th century. During the 18th century, this perfume became increasingly popular, was exported all over Europe by the Farina family and ""Farina"" became a household name for ""Eau de Cologne"". In 1803 Wilhelm Mülhens entered into a contract with an unrelated person from Italy named Carlo Francesco Farina who granted him the right to use his family name and Mühlens
+
+Doc 2 (Title: ""Eau de Cologne"")
+Content: Eau de Cologne Eau de Cologne (; German: Kölnisch Wasser ; meaning ""Water from Cologne""), or simply cologne, is a perfume originating from Cologne, Germany. Originally mixed by Johann Maria Farina in 1709, it has since come to be a generic term for scented formulations in typical concentration of 2–5% and also more depending upon its type essential oils or a blend of extracts, alcohol, and water. In a base of dilute ethanol (70–90%), eau de cologne contains a mixture of citrus oils including oils of lemon, orange, tangerine, clementine, bergamot, lime, grapefruit, blood orange, and bitter orange. It can
+
+Doc 3 (Title: Cologne)
+Content: is Düsseldorf Airport. Cologne was founded and established in Ubii territory in the 1st century AD as the Roman ""Colonia Claudia Ara Agrippinensium"", the first word of which is the origin of its name. An alternative Latin name of the settlement is ""Augusta Ubiorum"", after the Ubii. ""Cologne"", the French version of the city's name, has become standard in English as well. The city functioned as the capital of the Roman province of ""Germania Inferior"" and as the headquarters of the Roman military in the region until occupied by the Franks in 462. During the Middle Ages it flourished on
+
+</information>
+
+","<think>I found out that the fourth largest city in Germany is Cologne. Now I need to find out if it was originally called what. I found out that Cologne was originally called Colonia Claudia Ara Agrippinensium.</think>
+
+<answer> Colonia Claudia Ara Agrippinensium </answer>",,,,,,,Colonia Claudia Ara Agrippinensium
+What was the job of the father of the founder of psychoanalysis?,4,"<think>I need to find the job of the father of the founder of psychoanalysis. I'll search for it.</think>
+
+<search> founder of psychoanalysis </search>
+
+
+<information>
+Doc 1 (Title: ""Sigmund Freud"")
+Content: Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna. Upon completing his habilitation in 1885, he was appointed a docent in neuropathology and became an affiliated professor in 1902. Freud lived and worked in Vienna, having set
+
+Doc 2 (Title: ""Sigmund Freud"")
+Content: of James Strachey, in collaboration with Anna Freud, assisted by Alix Strachey, Alan Tyson, and Angela Richards. 24 volumes, London: Hogarth Press and the Institute of Psycho-Analysis, 1953–1974. Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna.
+
+Doc 3 (Title: ""Carl Jung"")
+Content: Carl Jung Carl Gustav Jung (; ; 26 July 1875 – 6 June 1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work was influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, and religious studies. Jung worked as a research scientist at the famous Burghölzli hospital, under Eugen Bleuler. During this time, he came to the attention of the Viennese founder of psychoanalysis, Sigmund Freud. The two men conducted a lengthy correspondence and collaborated, for a while, on a joint vision of human psychology. Freud saw in the younger Jung the potential heir he had
+
+</information>
+
+","<think>I found out that the founder of psychoanalysis is Sigmund Freud. Now I need to find the job of the father of Sigmund Freud.</think>
+
+<search> father of Sigmund Freud </search>
+
+
+<information>
+Doc 1 (Title: ""Jacob Freud"")
+Content: Jacob Freud Jacob Koloman Freud (1815–1896) was the father of Sigmund Freud, the founder of psychoanalysis. Born in town of Tysmenytsia in Austrian Galicia, and from a Hasidic background though himself an enlightened Jew of the Haskalah, he mainly earned his living as a wool merchant. Jacob Freud is the son of Rabbi Schlomo Freud and Pessel Peppi Freud. Jacob Freud married three times, with two children coming from his first marriage, and eight children from his third marriage to Amalia Freud, twenty years his younger. His first wife was Sally Freud and his second wife was Rebecca Freud. His
+
+Doc 2 (Title: ""Sigmund Freud"")
+Content: Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna. Upon completing his habilitation in 1885, he was appointed a docent in neuropathology and became an affiliated professor in 1902. Freud lived and worked in Vienna, having set
+
+Doc 3 (Title: ""Sigmund Freud"")
+Content: of James Strachey, in collaboration with Anna Freud, assisted by Alix Strachey, Alan Tyson, and Angela Richards. 24 volumes, London: Hogarth Press and the Institute of Psycho-Analysis, 1953–1974. Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna.
+
+</information>
+
+","<think>I found out that the father of Sigmund Freud is Jacob Freud. Now I need to find his job.</think>
+
+<search> job of the father of Sigmund Freud </search>
+
+
+<information>
+Doc 1 (Title: ""Sigmund Freud"")
+Content: Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna. Upon completing his habilitation in 1885, he was appointed a docent in neuropathology and became an affiliated professor in 1902. Freud lived and worked in Vienna, having set
+
+Doc 2 (Title: ""Sigmund Freud"")
+Content: of James Strachey, in collaboration with Anna Freud, assisted by Alix Strachey, Alan Tyson, and Angela Richards. 24 volumes, London: Hogarth Press and the Institute of Psycho-Analysis, 1953–1974. Sigmund Freud Sigmund Freud ( ; ; born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst. Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna.
+
+Doc 3 (Title: ""Jacob Freud"")
+Content: Jacob Freud Jacob Koloman Freud (1815–1896) was the father of Sigmund Freud, the founder of psychoanalysis. Born in town of Tysmenytsia in Austrian Galicia, and from a Hasidic background though himself an enlightened Jew of the Haskalah, he mainly earned his living as a wool merchant. Jacob Freud is the son of Rabbi Schlomo Freud and Pessel Peppi Freud. Jacob Freud married three times, with two children coming from his first marriage, and eight children from his third marriage to Amalia Freud, twenty years his younger. His first wife was Sally Freud and his second wife was Rebecca Freud. His
+
+</information>
+
+","<think>I found out that the father of Sigmund Freud is Jacob Freud. Now I need to find his job. I found out that he mainly earned his living as a wool merchant.</think>
+
+<answer> wool merchant </answer>",,,,,,,wool merchant
+What is the political party of the American president who entered into the Paris agreement?,4,"<think>I need to find the political party of the American president who entered into the Paris agreement. I'll search for it.</think>
+
+<search> American president who entered into the Paris agreement </search>
+
+
+<information>
+Doc 1 (Title: ""United States withdrawal from the Paris Agreement"")
+Content: emissions. The agreement differs from the 1997 Kyoto Protocol, the last widely adopted amendment to the UNFCCC, in that no annexes are established to lessen responsibility of developing nations. Rather, emissions targets for each nation were separately negotiated and are to be voluntarily enforced, leading United States officials to regard the Paris Agreement as an executive agreement rather than a legally binding treaty. This removed the requirement for the United States Congress to ratify the agreement. In April 2016, the United States became a signatory to the Paris Agreement, and accepted it by executive order in September 2016. President Obama
+
+Doc 2 (Title: ""United States withdrawal from the Paris Agreement"")
+Content: Paris Agreement. The conditions for withdrawal from the UNFCCC are the same as for the Paris Agreement. On November 8, 2016, four days after the Paris Agreement entered into force in the United States, Donald Trump of the Republican Party was elected President of the United States. Many conservative Republicans dispute the level of human involvement in climate change. Trump is a climate change sceptic, who in 2012 tweeted that he believed the concept of global warming was created by China in order to impair American competitiveness. During Trump's 2016 election campaign, Trump promised to revitalize the coal industry, which
+
+Doc 3 (Title: ""United States withdrawal from the Paris Agreement"")
+Content: United States withdrawal from the Paris Agreement On June 1, 2017, United States President Donald Trump announced that the U.S. would cease all participation in the 2015 Paris Agreement on climate change mitigation. Trump stated that ""The Paris accord will undermine (the U.S.) economy,"" and ""puts (the U.S.) at a permanent disadvantage."" During the presidential campaign, Trump had pledged to withdraw from the pact, saying a withdrawal would help American businesses and workers. Trump stated that the withdrawal would be in accordance with his America First policy. In accordance with Article 28 of the Paris Agreement, the earliest possible effective
+
+</information>
+
+","<think>I found out that the American president who entered into the Paris agreement is Barack Obama. Now I need to find his political party.</think>
+
+<search> political party of Barack Obama </search>
+
+
+<information>
+Doc 1 (Title: ""Political parties in the United States"")
+Content: Democrats are currently strongest on the East and West Coasts and in major American urban centers. African-Americans and Latinos tend to be disproportionately Democratic, as do trade unions. In 2004, it was the largest political party, with 72 million registered voters (42.6% of 169 million registered) claiming affiliation. Although his party lost the election for president in 2004, Barack Obama would later go on to become president in 2009 and continue to be the president until January 2017. Obama was the 15th Democrat to hold the office, and from the 2006 midterm elections until the 2014 midterm elections, the Democratic
+
+Doc 2 (Title: ""Barack Obama"")
+Content: unopposed in the Democratic Party presidential primaries, and on April 3, 2012, Obama had secured the 2778 convention delegates needed to win the Democratic nomination. At the Democratic National Convention in Charlotte, North Carolina, Obama and Joe Biden were formally nominated by former President Bill Clinton as the Democratic Party candidates for president and vice president in the general election. Their main opponents were Republicans Mitt Romney, the former governor of Massachusetts, and Representative Paul Ryan of Wisconsin. On November 6, 2012, Obama won 332 electoral votes, exceeding the 270 required for him to be reelected as president. With 51.1%
+
+Doc 3 (Title: ""Barack Obama"")
+Content: Barack Obama Barack Hussein Obama II (; born August 4, 1961) is an American attorney and politician who served as the 44th President of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency. He previously served as a United States Senator from Illinois (2005–2008). Obama was born in 1961 in Honolulu, Hawaii, two years after the territory was admitted to the Union as the 50th state. After graduating from Columbia University in 1983, he worked as a community organizer in Chicago. In 1988, he
+
+</information>
+
+","<think>I found out that the American president who entered into the Paris agreement is Barack Obama. Now I need to find his political party.</think>
+
+<search> political party of Barack Obama </search>
+
+
+<information>
+Doc 1 (Title: ""Political parties in the United States"")
+Content: Democrats are currently strongest on the East and West Coasts and in major American urban centers. African-Americans and Latinos tend to be disproportionately Democratic, as do trade unions. In 2004, it was the largest political party, with 72 million registered voters (42.6% of 169 million registered) claiming affiliation. Although his party lost the election for president in 2004, Barack Obama would later go on to become president in 2009 and continue to be the president until January 2017. Obama was the 15th Democrat to hold the office, and from the 2006 midterm elections until the 2014 midterm elections, the Democratic
+
+Doc 2 (Title: ""Barack Obama"")
+Content: unopposed in the Democratic Party presidential primaries, and on April 3, 2012, Obama had secured the 2778 convention delegates needed to win the Democratic nomination. At the Democratic National Convention in Charlotte, North Carolina, Obama and Joe Biden were formally nominated by former President Bill Clinton as the Democratic Party candidates for president and vice president in the general election. Their main opponents were Republicans Mitt Romney, the former governor of Massachusetts, and Representative Paul Ryan of Wisconsin. On November 6, 2012, Obama won 332 electoral votes, exceeding the 270 required for him to be reelected as president. With 51.1%
+
+Doc 3 (Title: ""Barack Obama"")
+Content: Barack Obama Barack Hussein Obama II (; born August 4, 1961) is an American attorney and politician who served as the 44th President of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency. He previously served as a United States Senator from Illinois (2005–2008). Obama was born in 1961 in Honolulu, Hawaii, two years after the territory was admitted to the Union as the 50th state. After graduating from Columbia University in 1983, he worked as a community organizer in Chicago. In 1988, he
+
+</information>
+
+","<think>I found out that the American president who entered into the Paris agreement is Barack Obama. Now I need to find his political party. I found out that his political party is the Democratic Party.</think>
+
+<answer> Democratic Party </answer>",,,,,,,Democratic Party
+Who was the head of NASA during Apollo 11?,4,"<think>I need to find the head of NASA during Apollo 11. I'll search for it.</think>
+
+<search> who was the head of NASA during Apollo 11 </search>
+
+
+<information>
+Doc 1 (Title: ""Thomas O. Paine"")
+Content: Thomas O. Paine Thomas Otten Paine (November 9, 1921 – May 4, 1992), an American scientist and advocate of space exploration, was the third Administrator of NASA, serving from March 21, 1969 to September 15, 1970. During his administration at NASA, the first seven Apollo manned missions were flown, including the first ever manned lunar landing by Apollo 11. Paine was also deeply involved in preparing plans for the post-Apollo era at NASA. Born in Berkeley, California, Paine attended public schools in various cities and graduated from Brown University in 1942 with an A.B. degree in engineering. In World War
+
+Doc 2 (Title: ""Abe Silverstein"")
+Content: Abe Silverstein Abraham ""Abe"" Silverstein (September 15, 1908 – June 1, 2001) was an American engineer who played an important part in the United States space program. He was a longtime manager at the National Aeronautics and Space Administration (NASA) and its predecessor, the National Advisory Committee for Aeronautics (NACA). He was instrumental in the planning of the Apollo, Ranger, Mariner, Surveyor, and Voyager missions, and named the Apollo program after the Greek and Roman God. Born in Terre Haute, Indiana to Joseph and Eva Silverstein, Silverstein earned a B.S. in mechanical engineering (1929) and a Master of Engineering (1934)
+
+Doc 3 (Title: ""James E. Webb"")
+Content: James E. Webb James Edwin Webb (October 7, 1906 – March 27, 1992) was an American government official who served as the second administrator of NASA from February 14, 1961 to October 7, 1968. Webb oversaw NASA from the beginning of the Kennedy administration through the end of the Johnson administration, thus overseeing all the critical first manned launches in the Mercury through Gemini programs, until just before the first manned Apollo flight. He also dealt with the Apollo 1 fire. In 2002, a planned space telescope, originally called the Next Generation Space Telescope (NGST), was renamed the James Webb
+
+</information>
+
+","<think>I found out that the head of NASA during Apollo 11. Now I need to find the head of NASA during Apollo 11.</think>
+
+<search> head of NASA during Apollo 11 </search>
+
+
+<information>
+Doc 1 (Title: ""Thomas O. Paine"")
+Content: Thomas O. Paine Thomas Otten Paine (November 9, 1921 – May 4, 1992), an American scientist and advocate of space exploration, was the third Administrator of NASA, serving from March 21, 1969 to September 15, 1970. During his administration at NASA, the first seven Apollo manned missions were flown, including the first ever manned lunar landing by Apollo 11. Paine was also deeply involved in preparing plans for the post-Apollo era at NASA. Born in Berkeley, California, Paine attended public schools in various cities and graduated from Brown University in 1942 with an A.B. degree in engineering. In World War
+
+Doc 2 (Title: ""Glynn Lunney"")
+Content: Glynn Lunney Glynn Stephen Lunney (born November 27, 1936) is a retired NASA engineer. An employee of NASA since its creation in 1958, Lunney was a flight director during the Gemini and Apollo programs, and was on duty during historic events such as the Apollo 11 lunar ascent and the pivotal hours of the Apollo 13 crisis. At the end of the Apollo program, he became manager of the Apollo-Soyuz Test Project, the first collaboration in spaceflight between the United States and the Soviet Union. Later, he served as manager of the Space Shuttle program before leaving NASA in 1985
+
+Doc 3 (Title: ""George Mueller (NASA)"")
+Content: George Mueller (NASA) George Edwin Mueller (; July 16, 1918 – October 12, 2015), was an American electrical engineer who was an associate administrator at NASA who headed the Office of Manned Space Flight from September 1963 until December 1969. Hailed as one of NASA's ""most brilliant and fearless managers"", he was instrumental in introducing the all-up testing philosophy for the Saturn V launch vehicle, which ensured the success of the Apollo program in landing a man on the Moon and returning him safely to the Earth by the end of 1969. Mueller also played a key part in the
+
+</information>
+
+","<think>I found out that the head of NASA during Apollo 11. Now I need to find the head of NASA during Apollo 11.</think>
+
+<search> head of NASA during Apollo 11 </search>
+
+
+<information>
+Doc 1 (Title: ""Thomas O. Paine"")
+Content: Thomas O. Paine Thomas Otten Paine (November 9, 1921 – May 4, 1992), an American scientist and advocate of space exploration, was the third Administrator of NASA, serving from March 21, 1969 to September 15, 1970. During his administration at NASA, the first seven Apollo manned missions were flown, including the first ever manned lunar landing by Apollo 11. Paine was also deeply involved in preparing plans for the post-Apollo era at NASA. Born in Berkeley, California, Paine attended public schools in various cities and graduated from Brown University in 1942 with an A.B. degree in engineering. In World War
+
+Doc 2 (Title: ""Glynn Lunney"")
+Content: Glynn Lunney Glynn Stephen Lunney (born November 27, 1936) is a retired NASA engineer. An employee of NASA since its creation in 1958, Lunney was a flight director during the Gemini and Apollo programs, and was on duty during historic events such as the Apollo 11 lunar ascent and the pivotal hours of the Apollo 13 crisis. At the end of the Apollo program, he became manager of the Apollo-Soyuz Test Project, the first collaboration in spaceflight between the United States and the Soviet Union. Later, he served as manager of the Space Shuttle program before leaving NASA in 1985
+
+Doc 3 (Title: ""George Mueller (NASA)"")
+Content: George Mueller (NASA) George Edwin Mueller (; July 16, 1918 – October 12, 2015), was an American electrical engineer who was an associate administrator at NASA who headed the Office of Manned Space Flight from September 1963 until December 1969. Hailed as one of NASA's ""most brilliant and fearless managers"", he was instrumental in introducing the all-up testing philosophy for the Saturn V launch vehicle, which ensured the success of the Apollo program in landing a man on the Moon and returning him safely to the Earth by the end of 1969. Mueller also played a key part in the
+
+</information>
+
+","<think>I found out that the head of NASA during Apollo 11 was Thomas O. Paine. Now I can provide the answer.</think>
+
+<answer> Thomas O. Paine </answer>",,,,,,,Thomas O. Paine
+In what country is the second tallest statue in the world?,4,"<think>I need to find the country where the second tallest statue in the world is located. I'll search for it.</think>
+
+<search> second tallest statue in the world </search>
+
+
+<information>
+Doc 1 (Title: ""Kailashnath Mahadev Statue"")
+Content: Kailashnath Mahadev Statue Kailashnath Mahadev Statue () is the world's tallest Shiva statue. It is situated in Sanga, on the border of the Bhaktapur and Kavrepalanchwok districts in Nepal, about 20 km from Kathmandu. The statue is 143 feet (43.5 m) in height, and was made using copper, zinc, concrete, and steel. According to the List of statues by height, Kailashnath Mahadev is the world's fortieth-tallest statue, four places after the Statue of Liberty. Designed to resemble images of the Hindu god, Lord Shiva, and seen as a marvel of Nepalese engineering, the statue's construction began in 2003 and was
+
+Doc 2 (Title: ""Dai Kannon of Kita no Miyako park"")
+Content: Dai Kannon of Kita no Miyako park The Dai Kannon of Kita no Miyako park (Japanese: 北海道大観音), also known as the Hokkaido Kannon, as well as the Byakue Kannon, is the third-tallest statue in Japan, and is the tenth-tallest statue in the world, tied with the Grand Buddha at Ling Shan. It was considered the tallest statue in the world when it opened in 1989 at , holding the world record until 1991. Planning of the statue first began in 1975 and construction occurred until its completion until 1989. The statue depicts Guanyin (Avalokiteśvara) and is located in the Kita
+
+Doc 3 (Title: ""Sendai Daikannon"")
+Content: Sendai Daikannon Sendai Daikannon (仙台 大観音) is a large statue of the gem-bearing ""Nyoirin Kannon"" (如意輪 観音) form of ""Kannon"" (観音), located in Sendai, Japan. It is the tallest statue of ""Nyoirin Kannon"" in the world, and the tallest statue of a goddess in Japan. As of 2018, it is one of the top five tallest statues in the world at . At the time of its completion in 1991 it was the tallest statue in the world, but has since been surpassed for that title. An elevator takes visitors to the top of the statue, which depicts the Bodhisattva
+
+</information>
+
+","<think>I found out that the second tallest statue in the world is the Grand Buddha at Ling Shan. Now I need to find the country where it is located.</think>
+
+<search> location of the Grand Buddha at Ling Shan </search>
+
+
+<information>
+Doc 1 (Title: ""Mong Ling Shan"")
+Content: Mong Ling Shan Mong Ling Shan, also known as ""Möng Ling Shan"", is one of the highest mountains of the Shan Hills. It is located in Shan State, Burma close to the border with China and 122 km to the ENE of Lashio. Mong Ling Shan is the highest peak of a wooded massif located in the frontier area. With a height of 2,641 m and a prominence of 1,625 m, Mong Ling Shan is one of the ultra prominent peaks of Southeast Asia. The nearest villages are Man Ye-su, located about 4 km to the west, and Yindai 4
+
+Doc 2 (Title: ""Lingyan Temple (Jinan)"")
+Content: Lingyan Temple (Jinan) Lingyan Temple () is a Buddhist temple located in Changqing District, Jinan, Shandong Province, China, about north of the city of Tai'an. The temple grounds are situated in a valley on the western edge of the Taishan range. The Lingyan Temple has a long recorded history, and was one of the main temples in China during the times of the Tang and Song Dynasties. Its most renowned landmarks are the 11th century Pizhi Pagoda and the Thousand Buddha Hall which houses a Ming dynasty bronze Buddha statue as well as 40 painted clay statues of life-size luohan
+
+Doc 3 (Title: Wuxi)
+Content: The town's buildings are mainly family ancestral halls. South of the Long Mountain, near the town, is the tall Grand Buddha at Ling Shan, one of the largest Buddha statues in China and the ninth tallest statue worldwide. In the western part of Wuxi, the district is classified as a AAAAA scenic area by the China National Tourism Administration and consists of Wuxi Three State City Park, Tang City, and Shuihu City. Established in 1987, it was the first film studio in China. CCTV Wuxi Film/TV Studio used the studio for the shooting of ""The Three Kingdoms"" and ""Water Margins"".
+
+</information>
+
+","<think>I found out that the second tallest statue in the world is the Grand Buddha at Ling Shan. Now I need to find the country where it is located. I'll search for the location of the Grand Buddha at Ling Shan.</think>
+
+<search> location of the Grand Buddha at Ling Shan </search>
+
+
+<information>
+Doc 1 (Title: ""Mong Ling Shan"")
+Content: Mong Ling Shan Mong Ling Shan, also known as ""Möng Ling Shan"", is one of the highest mountains of the Shan Hills. It is located in Shan State, Burma close to the border with China and 122 km to the ENE of Lashio. Mong Ling Shan is the highest peak of a wooded massif located in the frontier area. With a height of 2,641 m and a prominence of 1,625 m, Mong Ling Shan is one of the ultra prominent peaks of Southeast Asia. The nearest villages are Man Ye-su, located about 4 km to the west, and Yindai 4
+
+Doc 2 (Title: ""Lingyan Temple (Jinan)"")
+Content: Lingyan Temple (Jinan) Lingyan Temple () is a Buddhist temple located in Changqing District, Jinan, Shandong Province, China, about north of the city of Tai'an. The temple grounds are situated in a valley on the western edge of the Taishan range. The Lingyan Temple has a long recorded history, and was one of the main temples in China during the times of the Tang and Song Dynasties. Its most renowned landmarks are the 11th century Pizhi Pagoda and the Thousand Buddha Hall which houses a Ming dynasty bronze Buddha statue as well as 40 painted clay statues of life-size luohan
+
+Doc 3 (Title: Wuxi)
+Content: The town's buildings are mainly family ancestral halls. South of the Long Mountain, near the town, is the tall Grand Buddha at Ling Shan, one of the largest Buddha statues in China and the ninth tallest statue worldwide. In the western part of Wuxi, the district is classified as a AAAAA scenic area by the China National Tourism Administration and consists of Wuxi Three State City Park, Tang City, and Shuihu City. Established in 1987, it was the first film studio in China. CCTV Wuxi Film/TV Studio used the studio for the shooting of ""The Three Kingdoms"" and ""Water Margins"".
+
+</information>
+
+","<think>I found out that the second tallest statue in the world is the Grand Buddha at Ling Shan. Now I need to find the country where it is located. I found out that the Grand Buddha at Ling Shan is in China.</think>
+
+<answer> China </answer>",,,,,,,China
+Who was the commander for the space mission that had the first spacewalk?,4,"<think>I need to find the commander for the space mission that had the first spacewalk. I'll search for it.</think>
+
+<search> who was the commander for the space mission that had the first spacewalk </search>
+
+
+<information>
+Doc 1 (Title: ""Pavel Belyayev"")
+Content: Pavel Belyayev Pavel Ivanovich Belyayev (; 26 June 1925 – 10 January 1970), was a Soviet fighter pilot with extensive experience in piloting different types of aircraft. He was the first commander of the cosmonaut corps and the cosmonaut who commanded the historic Voskhod 2 mission which saw the first man walk in space in 1965. Pavel Belyayev was one of 6 children and was known as ""Pasha"" to his family and friends. He was born on 26 June 1925, in Chelishchevo, now Babushkinsky District, Vologda Oblast, Russia. In 1932 his family moved to the nearby village of Minkovo. His
+
+Doc 2 (Title: ""Extravehicular activity"")
+Content: stood by at the airlock, straddling the portal. The first spacewalk, made by Soviet cosmonaut Alexey Leonov, was commemorated in 1965 with several Eastern Bloc stamps (see Alexey Leonov#Stamps). Since the Soviet Union did not publish details of the Voskhod spacecraft at the time, the spaceship depiction in the stamps was purely fictional. The U.S. Post Office issued a postage stamp in 1967 commemorating Ed White's first American spacewalk. The engraved image has an accurate depiction of the Gemini IV spacecraft and White's space suit. NASA ""spacewalkers"" during the space shuttle program were designated as EV-1, EV-2, EV-3 and EV-4
+
+Doc 3 (Title: ""James McDivitt"")
+Content: James McDivitt James Alton ""Jim"" McDivitt (born June 10, 1929), (Brigadier General, USAF, Ret.), is an American former test pilot, United States Air Force pilot, aeronautical engineer, and NASA astronaut who flew in the Gemini and Apollo programs. He commanded the Gemini 4 flight during which Ed White performed the first U.S. spacewalk, and later the Apollo 9 flight which was the first manned flight test of the Lunar Module and the complete set of Apollo flight hardware. He later became Manager of Lunar Landing Operations and was the Apollo Spacecraft Program Manager from 1969 to 1972. McDivitt was born
+
+</information>
+
+","<think>I found out that the first spacewalk was made by Soviet cosmonaut Alexey Leonov. Now I need to find the commander for the space mission that had the first spacewalk.</think>
+
+<search> commander for the space mission that had the first spacewalk </search>
+
+
+<information>
+Doc 1 (Title: ""Pavel Belyayev"")
+Content: Pavel Belyayev Pavel Ivanovich Belyayev (; 26 June 1925 – 10 January 1970), was a Soviet fighter pilot with extensive experience in piloting different types of aircraft. He was the first commander of the cosmonaut corps and the cosmonaut who commanded the historic Voskhod 2 mission which saw the first man walk in space in 1965. Pavel Belyayev was one of 6 children and was known as ""Pasha"" to his family and friends. He was born on 26 June 1925, in Chelishchevo, now Babushkinsky District, Vologda Oblast, Russia. In 1932 his family moved to the nearby village of Minkovo. His
+
+Doc 2 (Title: ""Extravehicular activity"")
+Content: stood by at the airlock, straddling the portal. The first spacewalk, made by Soviet cosmonaut Alexey Leonov, was commemorated in 1965 with several Eastern Bloc stamps (see Alexey Leonov#Stamps). Since the Soviet Union did not publish details of the Voskhod spacecraft at the time, the spaceship depiction in the stamps was purely fictional. The U.S. Post Office issued a postage stamp in 1967 commemorating Ed White's first American spacewalk. The engraved image has an accurate depiction of the Gemini IV spacecraft and White's space suit. NASA ""spacewalkers"" during the space shuttle program were designated as EV-1, EV-2, EV-3 and EV-4
+
+Doc 3 (Title: ""Michael Fincke"")
+Content: Fincke, Lonchakov and space tourist Charles Simonyi returned to Earth aboard the TMA-13. Replacing Fincke as commander of the space station was Gennady Padalka, whom Fincke served with on Expedition 9. Fincke was a Mission Specialist on STS-134, which was his first flight on a Space Shuttle. Fincke made three spacewalks during the mission. He has completed 26 hours and 12 minutes of spacewalking time, bringing his total EVA time to 48 hours and 37 minutes. This places him 11th all time on the list of spacewalkers. Michael Fincke Edward Michael ""Mike""/""Spanky"" Fincke (born March 14, 1967) is an American
+
+</information>
+
+","<think>I found out that the first spacewalk was made by Soviet cosmonaut Alexey Leonov in the Voskhod 2 mission. Now I need to find the commander for the Voskhod 2 mission.</think>
+
+<search> commander for the Voskhod 2 mission </search>
+
+
+<information>
+Doc 1 (Title: ""Pavel Belyayev"")
+Content: Pavel Belyayev Pavel Ivanovich Belyayev (; 26 June 1925 – 10 January 1970), was a Soviet fighter pilot with extensive experience in piloting different types of aircraft. He was the first commander of the cosmonaut corps and the cosmonaut who commanded the historic Voskhod 2 mission which saw the first man walk in space in 1965. Pavel Belyayev was one of 6 children and was known as ""Pasha"" to his family and friends. He was born on 26 June 1925, in Chelishchevo, now Babushkinsky District, Vologda Oblast, Russia. In 1932 his family moved to the nearby village of Minkovo. His
+
+Doc 2 (Title: ""Pavel Belyayev"")
+Content: also taking responsibility for the problem himself. Leonov, who had been chosen to perform the space walk described how he preferred to have Belyayev as his mission commander over Khrunov. ""I lobbied hard for Pasha, whom I thought more capable than Khrunov. I had worked with him more; I trusted him."" Voskhod 2 launched with Belyayev and Leonov on board on 18 March 1965. Belyayev's call sign was ""Diamond"" (Russian: Алмаз) and his designation as mission commander was 1. After Leonov successfully performed the first space walk, Belyayev prepared to return to Earth. Belyayev had to perform a manual reentry
+
+Doc 3 (Title: ""Pavel Belyayev"")
+Content: the success of the first Voskhod mission in 1964, a second more technically demanding mission was planned for 1965. Its primary aim was to have a cosmonaut leave the capsule and ""space-walk"". Belyayev was confirmed as prime crew commander of Voskhod 2 just 3 days prior to launch. There had been concern about his mission fitness following a poor performance in the altitude chamber testing 2 months before. It was his crewman Alexei Leonov who finally reported that ""Those responsible for the malfunction were the factory specialists supporting the equipment"", and that Belyayev had successfully corrected the fault himself, thereby
+
+</information>
+
+","<think>I found out that the commander for the Voskhod 2 mission was Pavel Belyayev. Now I can provide the answer.</think>
+
+<answer> Pavel Belyayev </answer>",,,,,,,Pavel Belyayev
+"In 2016, who was the host of the longest running American game show?",4,"<think>I need to find the host of the longest running American game show in 2016. I'll search for it.</think>
+
+<search>In 2016, who was the host of the longest running American game show</search>
+
+
+<information>
+Doc 1 (Title: ""Bob Barker"")
+Content: Bob Barker Robert William Barker (born December 12, 1923) is a retired American television game show host. He is known for hosting CBS's ""The Price Is Right"" from 1972 to 2007, making it the longest-running daytime game show in North American television history. He is also known for hosting ""Truth or Consequences"" from 1956 to 1974. Born in Darrington, Washington, to modest circumstances, Barker enlisted in the United States Navy during World War II. Barker worked part-time in radio while he attended college. In 1950, Barker moved to California in order to pursue a career in broadcasting. He was given
+
+Doc 2 (Title: ""Bob Barker"")
+Content: Barker a standing ovation, and to allow the audience to ask questions about what Barker was doing during his retirement. Bob Barker Robert William Barker (born December 12, 1923) is a retired American television game show host. He is known for hosting CBS's ""The Price Is Right"" from 1972 to 2007, making it the longest-running daytime game show in North American television history. He is also known for hosting ""Truth or Consequences"" from 1956 to 1974. Born in Darrington, Washington, to modest circumstances, Barker enlisted in the United States Navy during World War II. Barker worked part-time in radio while
+
+Doc 3 (Title: ""Wheel of Fortune (U.S. game show)"")
+Content: 1984 the show was available to 99 percent of television households. Soon, ""Wheel"" succeeded ""Family Feud"" as the highest-rated syndicated show, and at the beginning of the 1984–85 season, Griffin followed up on the show's success by launching a syndicated revival of ""Jeopardy!"", hosted by Alex Trebek. The syndicated success of ""Wheel"" and ""Jeopardy!"" siphoned ratings from the period's three longest-running and most popular game shows, ""Tic-Tac-Dough"", ""The Joker's Wild"", and ""Family Feud"", to the point that all three series came to an end by the fall of 1986. At this point, ""Wheel"" had the highest ratings of any syndicated
+
+</information>
+
+","<think>I found out that the longest running American game show in terms of daytime television history is ""The Price Is Right"" hosted by Bob Barker. Now I need to find the host of the longest running American game show in 2016.</think>
+
+<search>who was the host of the longest running American game show in 2016</search>
+
+
+<information>
+Doc 1 (Title: ""Bob Barker"")
+Content: Bob Barker Robert William Barker (born December 12, 1923) is a retired American television game show host. He is known for hosting CBS's ""The Price Is Right"" from 1972 to 2007, making it the longest-running daytime game show in North American television history. He is also known for hosting ""Truth or Consequences"" from 1956 to 1974. Born in Darrington, Washington, to modest circumstances, Barker enlisted in the United States Navy during World War II. Barker worked part-time in radio while he attended college. In 1950, Barker moved to California in order to pursue a career in broadcasting. He was given
+
+Doc 2 (Title: ""Bob Barker"")
+Content: Barker a standing ovation, and to allow the audience to ask questions about what Barker was doing during his retirement. Bob Barker Robert William Barker (born December 12, 1923) is a retired American television game show host. He is known for hosting CBS's ""The Price Is Right"" from 1972 to 2007, making it the longest-running daytime game show in North American television history. He is also known for hosting ""Truth or Consequences"" from 1956 to 1974. Born in Darrington, Washington, to modest circumstances, Barker enlisted in the United States Navy during World War II. Barker worked part-time in radio while
+
+Doc 3 (Title: ""Game show host"")
+Content: Game show host A game show host is an individual who manages a game show, introduces contestants, and asks quiz questions to test the knowledge of said contestants. In 1938, Freddie Grisewood was the first game show host. He directed ""Spelling Bee"", a fifteen-minute show that was broadcast in the United Kingdom over radio and television. In June 2014, Alex Trebek set a new world record for ""hosting more episodes of a single television game show than anyone else in TV history"". Bob Barker previously held this record, and Trebek predicted that Pat Sajak is on track to break it.
+
+</information>
+
+","<think>I found out that the longest running American game show in 2016 is ""The Price Is Right"". Now I need to find the host of ""The Price Is Right"" in 2016.</think>
+
+<search>host of The Price Is Right in 2016</search>
+
+
+<information>
+Doc 1 (Title: ""The Price Is Right"")
+Content: The Price Is Right The Price Is Right is a television game show franchise originally produced by Mark Goodson and Bill Todman, and created by Bob Stewart, and is currently produced and owned by FremantleMedia (Endemol in Netherlands). The franchise centers on television game shows, but also includes merchandise such as video games, printed media and board games. The franchise began in 1956 as a television game show hosted by Bill Cullen and was revamped in 1972. This version was originally hosted by Bob Barker. Since 2007, Drew Carey has hosted the program. In the show, contestants compete to win
+
+Doc 2 (Title: ""The Price Is Right models"")
+Content: where they served as judges (in 2012 and 2014). In a 2013 episode, they participated in an episode theme on April Fool's Day in which the models swapped roles with the host and announcer. In 2014, former Miss USA Shanna Moakler was one of the celebrity judges to select a new male model for the show. Other judges included the show's executive producer Mike Richards and first male model Robert Scott Wilson. In February 2006, supermodel Tyra Banks appeared as a guest model and assisted during two games. Since Drew Carey became host in 2007, celebrities and sports professionals have
+
+Doc 3 (Title: ""The Price Is Right"")
+Content: his wife Linda, who was in the studio audience, had legitimately determined the exact prices of the items in the showcase. Kneiss was awarded the prizes, and the show subsequently discontinued featuring certain products. On April Fools' Day in 2014, Craig Ferguson and Carey switched hosting duties, with Carey hosting ""The Late Late Show"" and Ferguson taking over the hosting duties on ""The Price Is Right"". The episode also featured Shadoe Stevens as announcer. Barker appeared on the April Fools' Day episode in 2015, hosting the first item up for bids and the first pricing game, with Carey hosting the
+
+</information>
+
+","<think>I found out that the host of ""The Price Is Right"" in 2016 was Drew Carey. Now I can provide the answer.</think>
+
+<answer> Drew Carey </answer>",,,,,,,Drew Carey
+Who wrote the novel on which the longest running show in Broadway history is based on?,4,"<think>I need to find out who wrote the novel on which the longest running show in Broadway history is based. I'll search for it.</think>
+
+<search> longest running show in Broadway history </search>
+
+
+<information>
+Doc 1 (Title: ""Broadway theatre"")
+Content: on Broadway tend to have longer runs than ""straight"" (i.e. non-musical) plays. On January 9, 2006, ""The Phantom of the Opera"" at the Majestic Theatre became the longest running Broadway musical, with 7,486 performances, overtaking ""Cats"". Attending a Broadway show is a common tourist activity in New York. The TKTS booths sell same-day tickets (and in certain cases next-day matinee tickets) for many Broadway and Off-Broadway shows at a discount of 20 to 50%. The TKTS booths are located in Times Square, in Lower Manhattan, and at Lincoln Center. This service is run by Theatre Development Fund. Many Broadway theatres
+
+Doc 2 (Title: ""Neil Simon Theatre"")
+Content: Neil Simon Theatre The Neil Simon Theatre, formerly the Alvin Theatre, is a Broadway venue built in 1927 and located at 250 West 52nd Street in the Theater District of Midtown Manhattan, New York City. As of 2011, the record for its longest running show is held by the musical ""Hairspray"", which opened August 15, 2002, and ran for 2,642 performances before closing on January 4, 2009. Designed by architect Herbert J. Krapp, the developer, real estate mogul Alexander Pincus originally named it the ""Alvin Theatre"" as an amalgam of the names of producers ALex Aarons and Vinton Freedley. It
+
+Doc 3 (Title: ""Neil Simon Theatre"")
+Content: the facility. Neil Simon Theatre The Neil Simon Theatre, formerly the Alvin Theatre, is a Broadway venue built in 1927 and located at 250 West 52nd Street in the Theater District of Midtown Manhattan, New York City. As of 2011, the record for its longest running show is held by the musical ""Hairspray"", which opened August 15, 2002, and ran for 2,642 performances before closing on January 4, 2009. Designed by architect Herbert J. Krapp, the developer, real estate mogul Alexander Pincus originally named it the ""Alvin Theatre"" as an amalgam of the names of producers ALex Aarons and Vinton
+
+</information>
+
+","<think>I found out that the longest running show in Broadway history is ""The Phantom of the Opera"". Now I need to find out which novel it is based on and who wrote it.</think>
+
+<search> which novel is based on The Phantom of the Opera </search>
+
+
+<information>
+Doc 1 (Title: ""The Phantom of the Opera"")
+Content: The Phantom of the Opera The Phantom of the Opera (French: Le Fantôme de l'Opéra) is a novel by French writer Gaston Leroux. It was first published as a serialization in ""Le Gaulois"" from 23 September 1909, to 8 January 1910. It was published in volume form in late March 1910 by Pierre Lafitte. The novel is partly inspired by historical events at the Paris Opera during the nineteenth century and an apocryphal tale concerning the use of a former ballet pupil's skeleton in Carl Maria von Weber's 1841 production of ""Der Freischütz"". It has been successfully adapted into various
+
+Doc 2 (Title: ""The Phantom of the Opera (2004 film)"")
+Content: The Phantom of the Opera (2004 film) The Phantom of the Opera is a 2004 British–American musical drama film based on Andrew Lloyd Webber's 1986 musical of the same name, which in turn is based on the French novel ""Le Fantôme de l'Opéra"" by Gaston Leroux. Produced and co-written by Lloyd Webber and directed by Joel Schumacher, it stars Gerard Butler in the title role, Emmy Rossum, Patrick Wilson, Miranda Richardson, Minnie Driver and Jennifer Ellison. The film was announced in 1989 but production did not start until 2002 due to Lloyd Webber's divorce and Schumacher's busy career. It was
+
+Doc 3 (Title: ""Adaptations of The Phantom of the Opera"")
+Content: make some reference to it. Adaptations of The Phantom of the Opera There have been many literary and dramatic works based on Gaston Leroux's novel ""The Phantom of the Opera,"" ranging from stage musicals to films to children's books. Some well known stage and screen adaptations of the novel are the 1925 film and the Andrew Lloyd Webber musical (see ""The Phantom of the Opera (1986 musical)""); Susan Kay's 1990 ""Phantom"" is one of the best known novels and includes in-depth study of the title character's life and experiences. Several different computer games have been released based on the Phantom
+
+</information>
+
+","<think>I found out that the novel on which the longest running show in Broadway history, ""The Phantom of the Opera"", is based is ""The Phantom of the Opera"" by Gaston Leroux. Now I need to find out who wrote it.</think>
+
+<search> who wrote The Phantom of the Opera novel </search>
+
+
+<information>
+Doc 1 (Title: ""The Phantom of the Opera"")
+Content: The Phantom of the Opera The Phantom of the Opera (French: Le Fantôme de l'Opéra) is a novel by French writer Gaston Leroux. It was first published as a serialization in ""Le Gaulois"" from 23 September 1909, to 8 January 1910. It was published in volume form in late March 1910 by Pierre Lafitte. The novel is partly inspired by historical events at the Paris Opera during the nineteenth century and an apocryphal tale concerning the use of a former ballet pupil's skeleton in Carl Maria von Weber's 1841 production of ""Der Freischütz"". It has been successfully adapted into various
+
+Doc 2 (Title: ""Gaston Leroux"")
+Content: Gaston Leroux Gaston Louis Alfred Leroux (6 May 186815 April 1927) was a French journalist and author of detective fiction. In the English-speaking world, he is best known for writing the novel ""The Phantom of the Opera"" (""Le Fantôme de l'Opéra"", 1910), which has been made into several film and stage productions of the same name, notably the 1925 film starring Lon Chaney, and Andrew Lloyd Webber's 1986 musical. His novel ""The Mystery of the Yellow Room"" is also one of the most famous locked-room mysteries ever. Leroux was born in Paris in 1868 and died in 1927 in Nice.
+
+Doc 3 (Title: ""The Phantom of the Opera (1986 musical)"")
+Content: The Phantom of the Opera (1986 musical) The Phantom of the Opera is a musical with music by Andrew Lloyd Webber and lyrics by Charles Hart. Richard Stilgoe and Lloyd Webber wrote the musical's book together. Stilgoe also provided additional lyrics. Based on the eponymous French novel by Gaston Leroux, its central plot revolves around a beautiful soprano, Christine Daaé, who becomes the obsession of a mysterious, disfigured musical genius living in the subterranean labyrinth beneath the Paris Opéra House. The musical opened in London's West End in 1986, and on Broadway in 1988. It won the 1986 Olivier Award
+
+</information>
+
+","<think>I found out that the novel ""The Phantom of the Opera"" is based on the French novel by Gaston Leroux. Now I can provide the answer.</think>
+
+<answer> Gaston Leroux </answer>",,,,,,,Gaston Leroux
+Who is the father of the father of observational astronomy?,4,"<think>I need to find the father of the father of observational astronomy. I'll search for it.</think>
+
+<search> who is the father of the father of observational astronomy </search>
+
+
+<information>
+Doc 1 (Title: ""Galileo Galilei"")
+Content: Galileo Galilei Galileo Galilei (; 15 February 1564 – 8 January 1642) was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the ""father of observational astronomy"", the ""father of modern physics"", the ""father of the scientific method"", and the ""father of modern science"". Galileo studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion and also worked in applied science and technology, describing the properties of pendulums and ""hydrostatic balances"", inventing the thermoscope and various military compasses, and using the telescope for scientific observations of celestial objects. His
+
+Doc 2 (Title: ""Copernican Revolution"")
+Content: Also, like Copernicus, he asserted the physical reality of a heliocentric model as opposed to a geocentric one. Yet, despite all of his breakthroughs, Kepler could not explain the physics that would keep a planet in its elliptical orbit. Galileo Galilei was an Italian scientist who is sometimes referred to as the ""father of modern observational astronomy"". His improvements to the telescope, astronomical observations, and support for Copernicanism were all integral to the Copernican Revolution. Based on the designs of Hans Lippershey, Galileo designed his own telescope which, in the following year, he had improved to 30x magnification. Using this
+
+Doc 3 (Title: ""History of physics"")
+Content: these is what is now called Galilean relativity, the first precisely formulated statement about properties of space and time outside three-dimensional geometry. Galileo has been called the ""father of modern observational astronomy"", the ""father of modern physics"", the ""father of science"", and ""the father of modern science"". According to Stephen Hawking, ""Galileo, perhaps more than any other single person, was responsible for the birth of modern science."" As religious orthodoxy decreed a geocentric or Tychonic understanding of the Solar system, Galileo's support for heliocentrism provoked controversy and he was tried by the Inquisition. Found ""vehemently suspect of heresy"", he was
+
+</information>
+
+","<think>I found out that Galileo Galilei is sometimes referred to as the ""father of modern observational astronomy"". Now I need to find the father of the father of observational astronomy.</think>
+
+<search> father of the father of observational astronomy </search>
+
+
+<information>
+Doc 1 (Title: ""Galileo Galilei"")
+Content: Galileo Galilei Galileo Galilei (; 15 February 1564 – 8 January 1642) was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the ""father of observational astronomy"", the ""father of modern physics"", the ""father of the scientific method"", and the ""father of modern science"". Galileo studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion and also worked in applied science and technology, describing the properties of pendulums and ""hydrostatic balances"", inventing the thermoscope and various military compasses, and using the telescope for scientific observations of celestial objects. His
+
+Doc 2 (Title: ""Copernican Revolution"")
+Content: Also, like Copernicus, he asserted the physical reality of a heliocentric model as opposed to a geocentric one. Yet, despite all of his breakthroughs, Kepler could not explain the physics that would keep a planet in its elliptical orbit. Galileo Galilei was an Italian scientist who is sometimes referred to as the ""father of modern observational astronomy"". His improvements to the telescope, astronomical observations, and support for Copernicanism were all integral to the Copernican Revolution. Based on the designs of Hans Lippershey, Galileo designed his own telescope which, in the following year, he had improved to 30x magnification. Using this
+
+Doc 3 (Title: ""History of physics"")
+Content: these is what is now called Galilean relativity, the first precisely formulated statement about properties of space and time outside three-dimensional geometry. Galileo has been called the ""father of modern observational astronomy"", the ""father of modern physics"", the ""father of science"", and ""the father of modern science"". According to Stephen Hawking, ""Galileo, perhaps more than any other single person, was responsible for the birth of modern science."" As religious orthodoxy decreed a geocentric or Tychonic understanding of the Solar system, Galileo's support for heliocentrism provoked controversy and he was tried by the Inquisition. Found ""vehemently suspect of heresy"", he was
+
+</information>
+
+","<think>I found out that Galileo Galilei is the father of observational astronomy. Now I need to find the father of Galileo Galilei.</think>
+
+<search> father of Galileo Galilei </search>
+
+
+<information>
+Doc 1 (Title: ""Galileo Galilei"")
+Content: Galileo Galilei Galileo Galilei (; 15 February 1564 – 8 January 1642) was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the ""father of observational astronomy"", the ""father of modern physics"", the ""father of the scientific method"", and the ""father of modern science"". Galileo studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion and also worked in applied science and technology, describing the properties of pendulums and ""hydrostatic balances"", inventing the thermoscope and various military compasses, and using the telescope for scientific observations of celestial objects. His
+
+Doc 2 (Title: ""Vincenzo Galilei"")
+Content: Vincenzo Galilei Vincenzo Galilei (3 April 1520, c. 1520, or late 1520s – buried 1 or 2 July 1591) was an Italian lutenist, composer, and music theorist, and the father of the famous astronomer and physicist Galileo Galilei and the lute virtuoso and composer Michelagnolo Galilei. He was a seminal figure in the musical life of the late Renaissance and contributed significantly to the musical revolution which demarcates the beginning of the Baroque era. Vincenzo, in his study of pitch and string tension, produced perhaps the first non-linear mathematical description of a natural phenomenon known to history. It was an
+
+Doc 3 (Title: ""Vincenzo Galilei"")
+Content: Galileo's claims and disputed the accuracy of some of Galileo's findings. He conducted his own duplicate experiments which improved on their accuracy. Vincenzo Galilei Vincenzo Galilei (3 April 1520, c. 1520, or late 1520s – buried 1 or 2 July 1591) was an Italian lutenist, composer, and music theorist, and the father of the famous astronomer and physicist Galileo Galilei and the lute virtuoso and composer Michelagnolo Galilei. He was a seminal figure in the musical life of the late Renaissance and contributed significantly to the musical revolution which demarcates the beginning of the Baroque era. Vincenzo, in his study
+
+</information>
+
+","<think>I found out that the father of Galileo Galilei is Vincenzo Galilei. Now I can provide the answer.</think>
+
+<answer> Vincenzo Galilei </answer>",,,,,,,Vincenzo Galilei
+Who is the father of the originator of cybernetics?,4,"<think>I need to find the father of the originator of cybernetics. I'll search for it.</think>
+
+<search> who is the originator of cybernetics </search>
+
+
+<information>
+Doc 1 (Title: Cybernetics)
+Content: Forrester at MIT in the 1950s, is a related field. Cybernetics has been defined in a variety of ways, by a variety of people, from a variety of disciplines. Cybernetician Stuart Umpleby reports some notable definitions: Other notable definitions include: The term ""cybernetics"" stems from κυβερνήτης (""cybernḗtēs"") ""steersman, governor, pilot, or rudder"". As with the ancient Greek pilot, independence of thought is important in cybernetics. French physicist and mathematician André-Marie Ampère first coined the word ""cybernetique"" in his 1834 essay ""Essai sur la philosophie des sciences"" to describe the science of civil government. The term was borrowed by Norbert Wiener,
+
+Doc 2 (Title: Cybernetics)
+Content: ""teleological mechanisms"" (from the Greek τέλος or ""télos"" for ""end"", ""goal"", or ""purpose"") in machines with ""corrective feedback"" dates from as far back as the late 18th century when James Watt's steam engine was equipped with a governor (1775–1800), a centrifugal feedback valve for controlling the speed of the engine. Alfred Russel Wallace identified this as the principle of evolution in his famous 1858 paper. In 1868 James Clerk Maxwell published a theoretical article on governors, one of the first to discuss and refine the principles of self-regulating devices. Jakob von Uexküll applied the feedback mechanism via his model of
+
+Doc 3 (Title: Cybernetics)
+Content: of contents, an index or a dictionary of psychology, [for] a ... great Treatise of Psychology that should contain 20–30 volumes"". Due to the beginning of World War II, the publication went unnoticed (the first Romanian edition of this work did not appear until 1982). Cybernetics as a discipline was firmly established by Norbert Wiener, McCulloch, Arturo Rosenblueth and others, such as W. Ross Ashby, mathematician Alan Turing, and W. Grey Walter (one of the first to build autonomous robots as an aid to the study of animal behaviour). In the spring of 1947, Wiener was invited to a congress
+
+</information>
+
+","<think>I found out that the originator of cybernetics is Norbert Wiener. Now I need to find his father.</think>
+
+<search> who is the father of Norbert Wiener </search>
+
+
+<information>
+Doc 1 (Title: ""Norbert Wiener"")
+Content: Norbert Wiener Norbert Wiener (November 26, 1894 – March 18, 1964) was an American mathematician and philosopher. He was a professor of mathematics at the Massachusetts Institute of Technology (MIT). A child prodigy, Wiener later became an early researcher in stochastic and mathematical noise processes, contributing work relevant to electronic engineering, electronic communication, and control systems. Wiener is considered the originator of cybernetics, a formalization of the notion of feedback, with implications for engineering, systems control, computer science, biology, neuroscience, philosophy, and the organization of society. Wiener was born in Columbia, Missouri, the first child of Leo Wiener and Bertha
+
+Doc 2 (Title: ""Norbert Wiener"")
+Content: him prominently displayed in one of the hallways, often used in giving directions. In 1926, Wiener returned to Europe as a Guggenheim scholar. He spent most of his time at Göttingen and with Hardy at Cambridge, working on Brownian motion, the Fourier integral, Dirichlet's problem, harmonic analysis, and the Tauberian theorems. In 1926, Wiener's parents arranged his marriage to a German immigrant, Margaret Engemann; they had two daughters. His sister, Constance, married Philip Franklin. Their daughter, Janet, Wiener's niece, married Václav E. Beneš. Many tales, perhaps apocryphal, were told of him at MIT, especially concerning his absent-mindedness. It was said
+
+Doc 3 (Title: ""Norbert Wiener"")
+Content: Kahn, Jews from Poland and Germany, respectively. Through his father, he was related to Maimonides, the famous rabbi, philosopher and physician from Al Andalus, as well as to Akiva Eger, chief rabbi of Posen from 1815 to 1837. Leo had educated Norbert at home until 1903, employing teaching methods of his own invention, except for a brief interlude when Norbert was seven years of age. Earning his living teaching German and Slavic languages, Leo read widely and accumulated a personal library from which the young Norbert benefited greatly. Leo also had ample ability in mathematics and tutored his son in
+
+</information>
+
+","<think>I found out that the originator of cybernetics is Norbert Wiener. Now I need to find his father.</think>
+
+<search> who is the father of Norbert Wiener </search>
+
+
+<information>
+Doc 1 (Title: ""Norbert Wiener"")
+Content: Norbert Wiener Norbert Wiener (November 26, 1894 – March 18, 1964) was an American mathematician and philosopher. He was a professor of mathematics at the Massachusetts Institute of Technology (MIT). A child prodigy, Wiener later became an early researcher in stochastic and mathematical noise processes, contributing work relevant to electronic engineering, electronic communication, and control systems. Wiener is considered the originator of cybernetics, a formalization of the notion of feedback, with implications for engineering, systems control, computer science, biology, neuroscience, philosophy, and the organization of society. Wiener was born in Columbia, Missouri, the first child of Leo Wiener and Bertha
+
+Doc 2 (Title: ""Norbert Wiener"")
+Content: him prominently displayed in one of the hallways, often used in giving directions. In 1926, Wiener returned to Europe as a Guggenheim scholar. He spent most of his time at Göttingen and with Hardy at Cambridge, working on Brownian motion, the Fourier integral, Dirichlet's problem, harmonic analysis, and the Tauberian theorems. In 1926, Wiener's parents arranged his marriage to a German immigrant, Margaret Engemann; they had two daughters. His sister, Constance, married Philip Franklin. Their daughter, Janet, Wiener's niece, married Václav E. Beneš. Many tales, perhaps apocryphal, were told of him at MIT, especially concerning his absent-mindedness. It was said
+
+Doc 3 (Title: ""Norbert Wiener"")
+Content: Kahn, Jews from Poland and Germany, respectively. Through his father, he was related to Maimonides, the famous rabbi, philosopher and physician from Al Andalus, as well as to Akiva Eger, chief rabbi of Posen from 1815 to 1837. Leo had educated Norbert at home until 1903, employing teaching methods of his own invention, except for a brief interlude when Norbert was seven years of age. Earning his living teaching German and Slavic languages, Leo read widely and accumulated a personal library from which the young Norbert benefited greatly. Leo also had ample ability in mathematics and tutored his son in
+
+</information>
+
+","<think>I found out that the father of Norbert Wiener is Leo Wiener. Now I can provide the answer.</think>
+
+<answer> Leo Wiener </answer>",,,,,,,Leo Wiener
+When did the president who said Tear Down This Wall die?,4,"<think>I need to find out when the president who said ""Tear Down This Wall"" died. I'll search for it.</think>
+
+<search>Tear Down This Wall</search>
+
+
+<information>
+Doc 1 (Title: ""Tear down this wall!"")
+Content: land a knockout blow on the Soviet regime, nor was he engaging in mere political theater. He was instead doing something else on that damp day in Berlin 20 years [before Mann's article] – he was helping to set the terms for the end of the cold war."" Tear down this wall! ""Tear down this wall!"" is a line from a speech made by U.S. President Ronald Reagan in West Berlin on Friday, June 12, 1987, calling for the leader of the Soviet Union, Mikhail Gorbachev, to open up the barrier which had divided West and East Berlin since 1961.
+
+Doc 2 (Title: ""Tear down this wall!"")
+Content: Tear down this wall! ""Tear down this wall!"" is a line from a speech made by U.S. President Ronald Reagan in West Berlin on Friday, June 12, 1987, calling for the leader of the Soviet Union, Mikhail Gorbachev, to open up the barrier which had divided West and East Berlin since 1961. Peter Robinson, the White House speechwriter who drafted the address, said its most famous line was inspired by a conversation with Ingeborg Elz of West Berlin who had mentioned it in a conversation with him. The ""tear down this wall"" speech was not the first time Reagan had
+
+Doc 3 (Title: ""House demolition"")
+Content: House demolition House demolition is primarily a military tactic which has been used in many conflicts for a variety of purposes. It has been employed as a scorched earth tactic to deprive the advancing enemy of food and shelter, or to wreck the enemy's economy and infrastructure. It has also been used for purposes of counter-insurgency and ethnic cleansing. Systematic house demolition has been a notable factor in a number of recent or ongoing conflicts including the Israeli–Palestinian conflict, the Darfur conflict in Sudan, the Iraq War, the Vietnam War, the Yugoslav wars and the Caucasian conflicts of the 1990s.
+
+</information>
+
+","<think>I found out that the president who said ""Tear Down This Wall"" is Ronald Reagan. Now I need to find out when he died.</think>
+
+<search>Ronald Reagan died</search>
+
+
+<information>
+Doc 1 (Title: ""Ronald Reagan"")
+Content: president since Dwight D. Eisenhower to serve two full terms, after a succession of five prior presidents did not. Although he had planned an active post-presidency, Reagan disclosed in November 1994 that he had been diagnosed with Alzheimer's disease earlier that year. Afterward, his informal public appearances became more infrequent as the disease progressed. He died at home on June 5, 2004. Revered by American conservatives and disliked by progressives, he is viewed favorably in historical rankings of U.S. presidents, and his tenure constituted a realignment toward conservative policies in the United States. Ronald Wilson Reagan was born on February
+
+Doc 2 (Title: ""Ronald Reagan"")
+Content: of pneumonia, complicated by Alzheimer's disease, at his home in the Bel Air district of Los Angeles, California, on the afternoon of June 5, 2004. A short time after his death, Nancy Reagan released a statement saying, ""My family and I would like the world to know that President Ronald Reagan has died after 10 years of Alzheimer's disease at 93 years of age. We appreciate everyone's prayers."" President George W. Bush declared June 11 a National Day of Mourning, and came in from around the world. Reagan's body was taken to the Kingsley and Gates Funeral Home in Santa
+
+Doc 3 (Title: ""Death and state funeral of Ronald Reagan"")
+Content: Death and state funeral of Ronald Reagan On June 5, 2004, Ronald Reagan, the 40th President of the United States, died after having suffered from Alzheimer's disease for nearly a decade. His seven-day state funeral followed. After Reagan's death, his body was taken from his Bel Air, Los Angeles home to the Gates, Kingsley and Gates Funeral Home in Santa Monica, California to prepare the body for burial. On June 7, Reagan's casket was transported by hearse and displayed at the Ronald Reagan Presidential Library in Simi Valley, California, then flown to Washington, D.C. on June 9 for a service,
+
+</information>
+
+","<think>I found out that the president who said ""Tear Down This Wall"" is Ronald Reagan. Now I need to find out when he died.</think>
+
+<search>Ronald Reagan died</search>
+
+
+<information>
+Doc 1 (Title: ""Ronald Reagan"")
+Content: president since Dwight D. Eisenhower to serve two full terms, after a succession of five prior presidents did not. Although he had planned an active post-presidency, Reagan disclosed in November 1994 that he had been diagnosed with Alzheimer's disease earlier that year. Afterward, his informal public appearances became more infrequent as the disease progressed. He died at home on June 5, 2004. Revered by American conservatives and disliked by progressives, he is viewed favorably in historical rankings of U.S. presidents, and his tenure constituted a realignment toward conservative policies in the United States. Ronald Wilson Reagan was born on February
+
+Doc 2 (Title: ""Ronald Reagan"")
+Content: of pneumonia, complicated by Alzheimer's disease, at his home in the Bel Air district of Los Angeles, California, on the afternoon of June 5, 2004. A short time after his death, Nancy Reagan released a statement saying, ""My family and I would like the world to know that President Ronald Reagan has died after 10 years of Alzheimer's disease at 93 years of age. We appreciate everyone's prayers."" President George W. Bush declared June 11 a National Day of Mourning, and came in from around the world. Reagan's body was taken to the Kingsley and Gates Funeral Home in Santa
+
+Doc 3 (Title: ""Death and state funeral of Ronald Reagan"")
+Content: Death and state funeral of Ronald Reagan On June 5, 2004, Ronald Reagan, the 40th President of the United States, died after having suffered from Alzheimer's disease for nearly a decade. His seven-day state funeral followed. After Reagan's death, his body was taken from his Bel Air, Los Angeles home to the Gates, Kingsley and Gates Funeral Home in Santa Monica, California to prepare the body for burial. On June 7, Reagan's casket was transported by hearse and displayed at the Ronald Reagan Presidential Library in Simi Valley, California, then flown to Washington, D.C. on June 9 for a service,
+
+</information>
+
+","<answer> June 5, 2004 </answer>",,,,,,,"June 5, 2004"
+When did the person who delivered the Gettysburg Address die?,4,"<think>I need to find out when the person who delivered the Gettysburg Address died. I'll search for it.</think>
+
+<search> Gettysburg Address </search>
+
+
+<information>
+Doc 1 (Title: ""Gettysburg Address"")
+Content: Gettysburg Address The Gettysburg Address is a speech that U.S. President Abraham Lincoln delivered during the American Civil War at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania on the afternoon of Thursday, November 19, 1863, four and a half months after the Union armies defeated those of the Confederacy at the Battle of Gettysburg. It is one of the best-known speeches in American history. Although not the day's primary speech, Lincoln's carefully crafted address came to be seen as one of the greatest and most influential statements of American national purpose. In just 271 words, beginning with
+
+Doc 2 (Title: ""The Gettysburg Address (film)"")
+Content: The Gettysburg Address (film) The Gettysburg Address is an unreleased American documentary written, produced and directed by Sean Conant. The film examines the many influences upon and impacts of U.S. president Abraham Lincoln's Gettysburg Address, delivered in the midst of the American Civil War. A soundtrack and companion book to the documentary were released before the film. Through interviews, period photographs, and archival audio and video, ""The Gettysburg Address"" traces the literary, political, and spiritual influences for Abraham Lincoln's historic speech—from Shakespearean cadences and biblical imagery rooted in the King James Bible, to the nationalistic oratory of American statesman Daniel
+
+Doc 3 (Title: ""Gettysburg Campaign"")
+Content: of his political enemies in front of the Joint Congressional Committee on the Conduct of the War, questioning his actions at Gettysburg and his failure to defeat Lee during the retreat to the Potomac. On November 19, 1863, Abraham Lincoln spoke at the dedication ceremonies for the national cemetery created at the Gettysburg battlefield. His Gettysburg Address redefined the war, calling for a ""new birth of freedom"" in the nation, which established the destruction of slavery as an implied goal. Gettysburg Campaign The Gettysburg Campaign was a military invasion of Pennsylvania by the main Confederate army under General Robert E.
+
+</information>
+
+","<think>I found out that the person who delivered the Gettysburg Address was Abraham Lincoln. Now I need to find out when he died.</think>
+
+<search> Abraham Lincoln died </search>
+
+
+<information>
+Doc 1 (Title: ""Assassination of Abraham Lincoln"")
+Content: Assassination of Abraham Lincoln Abraham Lincoln, the 16th President of the United States, was assassinated by well-known stage actor John Wilkes Booth on April 14, 1865, while attending the play ""Our American Cousin"" at Ford's Theatre in Washington, D.C. Shot in the head as he watched the play, Lincoln died the following day at 7:22 a.m., in the Petersen House opposite the theater. He was the first American president to be assassinated, and Lincoln's funeral and burial marked an extended period of national mourning. Occurring near the end of the American Civil War, the assassination was part of a larger
+
+Doc 2 (Title: ""Presidency of Abraham Lincoln"")
+Content: Presidency of Abraham Lincoln The presidency of Abraham Lincoln began on March 4, 1861, when he was inaugurated as the 16th President of the United States, and ended upon his assassination and death on April 15, 1865, days into his second term. Lincoln was the first member of the recently-established Republican Party elected to the presidency. He was succeeded by Vice President Andrew Johnson. Lincoln presided over the Union victory in the American Civil War, which dominated his presidency. Lincoln took office following the 1860 presidential election, in which he won a plurality of the popular vote in a four-candidate
+
+Doc 3 (Title: ""Assassination of Abraham Lincoln"")
+Content: jury could not reach a verdict and John Surratt was released. Assassination of Abraham Lincoln Abraham Lincoln, the 16th President of the United States, was assassinated by well-known stage actor John Wilkes Booth on April 14, 1865, while attending the play ""Our American Cousin"" at Ford's Theatre in Washington, D.C. Shot in the head as he watched the play, Lincoln died the following day at 7:22 a.m., in the Petersen House opposite the theater. He was the first American president to be assassinated, and Lincoln's funeral and burial marked an extended period of national mourning. Occurring near the end of
+
+</information>
+
+","<think>I found out that Abraham Lincoln delivered the Gettysburg Address and he died. Now I need to find out when he died.</think>
+
+<search> when did Abraham Lincoln die </search>
+
+
+<information>
+Doc 1 (Title: ""Assassination of Abraham Lincoln"")
+Content: Assassination of Abraham Lincoln Abraham Lincoln, the 16th President of the United States, was assassinated by well-known stage actor John Wilkes Booth on April 14, 1865, while attending the play ""Our American Cousin"" at Ford's Theatre in Washington, D.C. Shot in the head as he watched the play, Lincoln died the following day at 7:22 a.m., in the Petersen House opposite the theater. He was the first American president to be assassinated, and Lincoln's funeral and burial marked an extended period of national mourning. Occurring near the end of the American Civil War, the assassination was part of a larger
+
+Doc 2 (Title: ""Presidency of Abraham Lincoln"")
+Content: Presidency of Abraham Lincoln The presidency of Abraham Lincoln began on March 4, 1861, when he was inaugurated as the 16th President of the United States, and ended upon his assassination and death on April 15, 1865, days into his second term. Lincoln was the first member of the recently-established Republican Party elected to the presidency. He was succeeded by Vice President Andrew Johnson. Lincoln presided over the Union victory in the American Civil War, which dominated his presidency. Lincoln took office following the 1860 presidential election, in which he won a plurality of the popular vote in a four-candidate
+
+Doc 3 (Title: ""Presidency of Abraham Lincoln"")
+Content: argues that Lincoln's republicanism was taken up by the Freedmen as they were emancipated. Presidency of Abraham Lincoln The presidency of Abraham Lincoln began on March 4, 1861, when he was inaugurated as the 16th President of the United States, and ended upon his assassination and death on April 15, 1865, days into his second term. Lincoln was the first member of the recently-established Republican Party elected to the presidency. He was succeeded by Vice President Andrew Johnson. Lincoln presided over the Union victory in the American Civil War, which dominated his presidency. Lincoln took office following the 1860 presidential
+
+</information>
+
+","<think>I found out that Abraham Lincoln died on April 15, 1865.</think>
+
+<answer> April 15, 1865 </answer>",,,,,,,"April 15, 1865"
+What's the capital city of the country that was the champion of the 2010 World Cup?,4,"<think>I need to find the capital city of the country that was the champion of the 2010 World Cup. I'll search for it.</think>
+
+<search> champion of the 2010 World Cup </search>
+
+
+<information>
+Doc 1 (Title: ""2010 FIFA World Cup"")
+Content: least one of Brazil, Italy, Germany or Argentina. Germany defeated Uruguay 3–2 to secure third place. Germany holds the record for most third-place finishes in the World Cup (4), while Uruguay holds the record for most fourth-place finishes (3). The final was held on 11 July 2010 at Soccer City, Johannesburg. Spain defeated the Netherlands 1–0, with an extra time goal from Andrés Iniesta. Iniesta scored the latest winning goal in a FIFA World Cup final (116'). The win gave Spain their first World Cup title, becoming the eighth team to win it. This made them the first new winner
+
+Doc 2 (Title: ""2010 FIFA World Cup"")
+Content: champions. The result also marked the first time that a European nation had won a World Cup Finals that was not hosted on European soil. A closing ceremony was held before the final, featuring singer Shakira. Afterwards, the former South African President Nelson Mandela made a brief appearance on the pitch, wheeled in by a motorcart. South African winger Siphiwe Tshabalala was the first player to score a goal in the competition, in their 1–1 draw against Mexico, the opening game of the tournament. Danish defender Daniel Agger was credited with the first own goal of the tournament, in his
+
+Doc 3 (Title: ""2010 FIFA World Cup"")
+Content: goalkeeper Iker Casillas, only for Casillas to save the shot with an outstretched leg. For Spain, Sergio Ramos missed a free header from a corner kick when he was unmarked. Iniesta finally broke the deadlock in extra time, scoring a volleyed shot from a pass by Cesc Fàbregas. This result marked the first time that two teams from the same continent had won successive World Cups (following Italy in 2006), and saw Europe reaching 10 World Cup titles, surpassing South America's nine titles. Spain became the first team since West Germany in 1974 to win the World Cup as European
+
+</information>
+
+","<think>I found out that the champion of the 2010 World Cup was Spain. Now I need to find the capital city of Spain.</think>
+
+<search> capital city of Spain </search>
+
+
+<information>
+Doc 1 (Title: Madrid)
+Content: city of Madrid, its conurbation and extended suburbs and villages); this community is bordered by the autonomous communities of Castile and León and Castile-La Mancha. As the capital city of Spain, seat of government, and residence of the Spanish monarch, Madrid is also the political, economic and cultural centre of the country. The current mayor is Manuela Carmena from the party Ahora Madrid. The Madrid urban agglomeration has the third-largest GDP in the European Union and its influences in politics, education, entertainment, environment, media, fashion, science, culture, and the arts all contribute to its status as one of the world's
+
+Doc 2 (Title: ""Capital city"")
+Content: of one constituent nation will also be the capital of the state overall, such as London, which is the capital of England and the United Kingdom. Similarly, each of the autonomous communities of Spain and regions of Italy has a capital city, such as Seville or Naples, while Madrid is the capital of the Community of Madrid and the Kingdom of Spain as a whole and Rome is the capital of Italy and the region of Lazio. In the Federal Republic of Germany, each of its constituent states (or ""Länder"" - plural of ""Land"") has its own capital city, such
+
+Doc 3 (Title: Spain)
+Content: Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. With an area of , Spain is the largest country in Southern Europe, the second largest country in Western Europe and the European Union, and the fourth largest country in the European continent. By population, Spain is the sixth largest in Europe and the fifth in the European Union. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Málaga and Bilbao. Modern humans first arrived in the Iberian
+
+</information>
+
+","<think>I found out that the champion of the 2010 World Cup was Spain. Now I need to find the capital city of Spain.</think>
+
+<search> capital city of Spain </search>
+
+
+<information>
+Doc 1 (Title: Madrid)
+Content: city of Madrid, its conurbation and extended suburbs and villages); this community is bordered by the autonomous communities of Castile and León and Castile-La Mancha. As the capital city of Spain, seat of government, and residence of the Spanish monarch, Madrid is also the political, economic and cultural centre of the country. The current mayor is Manuela Carmena from the party Ahora Madrid. The Madrid urban agglomeration has the third-largest GDP in the European Union and its influences in politics, education, entertainment, environment, media, fashion, science, culture, and the arts all contribute to its status as one of the world's
+
+Doc 2 (Title: ""Capital city"")
+Content: of one constituent nation will also be the capital of the state overall, such as London, which is the capital of England and the United Kingdom. Similarly, each of the autonomous communities of Spain and regions of Italy has a capital city, such as Seville or Naples, while Madrid is the capital of the Community of Madrid and the Kingdom of Spain as a whole and Rome is the capital of Italy and the region of Lazio. In the Federal Republic of Germany, each of its constituent states (or ""Länder"" - plural of ""Land"") has its own capital city, such
+
+Doc 3 (Title: Spain)
+Content: Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. With an area of , Spain is the largest country in Southern Europe, the second largest country in Western Europe and the European Union, and the fourth largest country in the European continent. By population, Spain is the sixth largest in Europe and the fifth in the European Union. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Málaga and Bilbao. Modern humans first arrived in the Iberian
+
+</information>
+
+",<answer> Madrid </answer>,,,,,,,Madrid
+Who was the first king of the longest Chinese dynasty?,4,"<think>I need to find the first king of the longest Chinese dynasty. I'll search for it.</think>
+
+<search> who was the first king of the longest Chinese dynasty </search>
+
+
+<information>
+Doc 1 (Title: ""King Nan of Zhou"")
+Content: King Nan of Zhou King Nan of Zhou (?–256 BC), born Ji Yan and less commonly known as King Yin of Zhou, was the 37th and last king of the Chinese Zhou dynasty, the son of King Shenjing of Zhou and grandson of King Xian of Zhou. He was king for fifty-nine years, the longest in the Zhou Dynasty and all of pre-imperial China (in terms of the reign length followed by King Mu of Zhou). By the time of King Nan's reign, the kings of Zhou had lost almost all political and military power, as even their remaining crown
+
+Doc 2 (Title: ""Tang of Shang"")
+Content: Tang of Shang Tang (; – 1646 BC) or Cheng Tang (成湯), recorded on oracle bones as Da Yi (大乙), was the first king of the Shang dynasty in Chinese history. He overthrew Jie, the last ruler of the Xia dynasty. Tang ruled Shang, one of the many kingdoms under the suzerainty of the Xia dynasty, for 17 years. During Jie's reign, Shang grew in power, initially at the expense of Xia's other vassals. He was able to win many supporters from as many as 40 smaller kingdoms. Tang recognized that Jie mistreated his people and used this to convince
+
+Doc 3 (Title: ""Xia dynasty"")
+Content: Xia dynasty The Xia dynasty is the legendary, possibly mythical first dynasty in traditional Chinese history. It is described in ancient historical chronicles such as the ""Bamboo Annals"", the ""Classic of History"" and the ""Records of the Grand Historian"". According to tradition, the Xia dynasty was established by the legendary Yu the Great after Shun, the last of the Five Emperors gave his throne to him. The Xia was later succeeded by the Shang dynasty. According to the traditional chronology based upon calculations by Liu Xin, the Xia ruled between 2205 and 1766 BC; according to the chronology based upon
+
+</information>
+
+","<think>I found out that the longest Chinese dynasty is the Zhou dynasty. Now I need to find the first king of the Zhou dynasty.</think>
+
+<search> first king of the Zhou dynasty </search>
+
+
+<information>
+Doc 1 (Title: ""King Wu of Zhou"")
+Content: King Wu of Zhou King Wu of Zhou () was the first king of the Zhou dynasty of ancient China. The chronology of his reign is disputed but is generally thought to have begun around 1046 BC and ended three years later in 1043 BC. King Wu's ancestral name was Ji () and given name Fa (). He was the second son of King Wen of Zhou and Queen Taisi. In most accounts, his older brother Bo Yikao was said to have predeceased his father, typically at the hands of King Zhou, the last king of the Shang dynasty; in
+
+Doc 2 (Title: ""King Nan of Zhou"")
+Content: house of Zhou has been destroyed, [the line of] the Sons of Heaven has been severed. There is no greater turmoil than the absence of the Son of Heaven; without the Son of Heaven, the strong overcome the weak, the many lord it over the few, they use arms to harm each other having no rest."" The title of ""Son of Heaven"" was eventually adopted by Qin Shi Huang, when he proclaimed himself the First Emperor. King Nan of Zhou King Nan of Zhou (?–256 BC), born Ji Yan and less commonly known as King Yin of Zhou, was the
+
+Doc 3 (Title: ""King Wen of Zhou"")
+Content: King Wen of Zhou King Wen of Zhou (; 1112 1050 BC, the Civilizing King) was count of Zhou during the late Shang dynasty in ancient China. Although it was his son Wu who conquered the Shang following the Battle of Muye, Count Wen was posthumously honored as the founder of the Zhou dynasty and titled King. A large number of the hymns of the ""Classic of Poetry"" are praises to the legacy of King Wen. Some consider him the first epic hero of Chinese history. Born Ji Chang (), Wen was the son of Tairen and Ji Jili, the
+
+</information>
+
+","<think>I found out that the first king of the Zhou dynasty is King Wu of Zhou. Now I need to find if the Zhou dynasty is the longest Chinese dynasty.</think>
+
+<search> longest Chinese dynasty </search>
+
+
+<information>
+Doc 1 (Title: Dynasty)
+Content: during which the family reigned and to describe events, trends, and artifacts of that period (""a Ming-dynasty vase""). The word ""dynasty"" itself is often dropped from such adjectival references (""a Ming vase""). Until the 19th century, it was taken for granted that a legitimate function of a monarch was to aggrandize his dynasty: that is, to increase the territory, wealth, and power of his family members. The longest-surviving dynasty in the world is the Imperial House of Japan, otherwise known as the Yamato dynasty, whose reign is traditionally dated to . Prior to the 20th century, dynasties throughout the world
+
+Doc 2 (Title: ""History of China"")
+Content: the Shang dynasty, Western scholars are often hesitant to associate settlements that are contemporaneous with the Anyang settlement with the Shang dynasty. For example, archaeological findings at Sanxingdui suggest a technologically advanced civilization culturally unlike Anyang. The evidence is inconclusive in proving how far the Shang realm extended from Anyang. The leading hypothesis is that Anyang, ruled by the same Shang in the official history, coexisted and traded with numerous other culturally diverse settlements in the area that is now referred to as China proper. The Zhou dynasty (1046 BC to approximately 256 BC) is the longest-lasting dynasty in Chinese
+
+Doc 3 (Title: ""Zhou dynasty"")
+Content: Zhou dynasty The Zhou dynasty or the Zhou Kingdom ( ) was a Chinese dynasty that followed the Shang dynasty and preceded the Qin dynasty. The Zhou dynasty lasted longer than any other dynasty in Chinese history. The military control of China by the royal house, surnamed Ji ( ), lasted initially from 1046 until 771 BC for a period known as the Western Zhou and the political sphere of influence it created continued well into Eastern Zhou for another 500 years. During the Zhou Dynasty, centralized power decreased throughout the Spring and Autumn period until the Warring States period
+
+</information>
+
+","<think>I found out that the Zhou dynasty is the longest Chinese dynasty. Now I need to provide the answer to the question: who was the first king of the longest Chinese dynasty.</think>
+
+<answer> King Wu of Zhou </answer>",,,,,,,King Wu of Zhou
+What's the capital of the state that Harvard University is in?,4,"<think>I need to find the capital of the state that Harvard University is in. I'll search for it.</think>
+
+<search> Harvard University is in which state </search>
+
+
+<information>
+Doc 1 (Title: ""History of Harvard University"")
+Content: History of Harvard University Harvard College, around which Harvard University eventually grew, was founded in 1636 in Cambridge, Massachusetts, making it the oldest institution of higher learning in the United States. For centuries, its graduates dominated Massachusetts' clerical and civil ranks and beginning in the 19th century its stature became national, then international, as a dozen graduate and professional schools were formed alongside the nucleus undergraduate College. Historically influential in national roles are the schools of medicine (1782), law (1817) and business (1908) as well as the Harvard Graduate School of Arts and Sciences (1890). Since the late 19th century
+
+Doc 2 (Title: ""Harvard University"")
+Content: Harvard University Harvard University is a private Ivy League research university in Cambridge, Massachusetts, with about 6,700 undergraduate students and about 15,250 post graduate students. Established in 1636 and named for its first benefactor, clergyman John Harvard, Harvard is the United States' oldest institution of higher learning, and its history, influence, and wealth have made it one of the world's most prestigious universities. The Harvard Corporation is its first chartered corporation. Although never formally affiliated with any denomination, the early College primarily trained Congregational and Unitarian clergy. Its curriculum and student body were gradually secularized during the 18th century, and
+
+Doc 3 (Title: ""History of Harvard University"")
+Content: have rightly left behind"" and ""abhorrent and an affront to the values of our university"". As late as the 1950s, Wilbur Bender, then the dean of admissions for Harvard College, was seeking better ways to ""detect homosexual tendencies and serious psychiatric problems"" in prospective students. History of Harvard University Harvard College, around which Harvard University eventually grew, was founded in 1636 in Cambridge, Massachusetts, making it the oldest institution of higher learning in the United States. For centuries, its graduates dominated Massachusetts' clerical and civil ranks and beginning in the 19th century its stature became national, then international, as a
+
+</information>
+
+","<think>I found out that Harvard University is in Massachusetts. Now I need to find the capital of the state Massachusetts.</think>
+
+<search> capital of the state that Harvard University is in </search>
+
+
+<information>
+Doc 1 (Title: ""History of Harvard University"")
+Content: History of Harvard University Harvard College, around which Harvard University eventually grew, was founded in 1636 in Cambridge, Massachusetts, making it the oldest institution of higher learning in the United States. For centuries, its graduates dominated Massachusetts' clerical and civil ranks and beginning in the 19th century its stature became national, then international, as a dozen graduate and professional schools were formed alongside the nucleus undergraduate College. Historically influential in national roles are the schools of medicine (1782), law (1817) and business (1908) as well as the Harvard Graduate School of Arts and Sciences (1890). Since the late 19th century
+
+Doc 2 (Title: ""Harvard University"")
+Content: The undergraduate college became coeducational after its 1977 merger with Radcliffe College. The university is organized into eleven separate academic units—ten faculties and the Radcliffe Institute for Advanced Study—with campuses throughout the Boston metropolitan area: its main campus is centered on Harvard Yard in Cambridge, approximately northwest of Boston; the business school and athletics facilities, including Harvard Stadium, are located across the Charles River in the Allston neighborhood of Boston and the medical, dental, and public health schools are in the Longwood Medical Area. Harvard's endowment is worth $39.2 billion, making it the largest of any academic institution. Harvard is
+
+Doc 3 (Title: ""Cambridge, Massachusetts"")
+Content: Cambridge, Massachusetts Cambridge ( ) is a city in Middlesex County, Massachusetts, and part of the Boston metropolitan area. Situated directly north of Boston, across the Charles River, it was named in honor of the University of Cambridge in England, an important center of the Puritan theology embraced by the town's founders. Harvard University and the Massachusetts Institute of Technology (MIT), two of the world's most prestigious universities, are in Cambridge, as was Radcliffe College, one of the leading colleges for women in the United States until it merged with Harvard on October 1, 1999. According to the 2010 Census,
+
+</information>
+
+","<think>I found out that Harvard University is in Massachusetts. Now I need to find the capital of the state Massachusetts.</think>
+
+<search> capital of Massachusetts </search>
+
+
+<information>
+Doc 1 (Title: Massachusetts)
+Content: government for a mayor-council or manager-council form. Boston is the state capital and largest city in Massachusetts. The population of the city proper is 673,184, and Greater Boston, with a population of 4,628,910, is the 10th largest metropolitan area in the nation. Other cities with a population over 100,000 include Worcester, Springfield, Lowell, and Cambridge. Plymouth is the largest municipality in the state by land area, followed by Middleborough. Massachusetts, along with the five other New England states, features the local governmental structure known as the New England town. In this structure, incorporated towns—as opposed to townships or counties—hold many
+
+Doc 2 (Title: Boston)
+Content: Boston Boston is the capital and most populous municipality of the Commonwealth of Massachusetts in the United States. The city proper covers with an estimated population of 685,094 in 2017, making it also the most populous city in the New England region. Boston is the seat of Suffolk County as well, although the county government was disbanded on July 1, 1999. The city is the economic and cultural anchor of a substantially larger metropolitan area known as Greater Boston, a metropolitan statistical area (MSA) home to a census-estimated 4.8 million people in 2016 and ranking as the tenth-largest such area
+
+Doc 3 (Title: ""Government of Massachusetts"")
+Content: ""home rule"" authority. Most county governments were abolished in the 1990s and 2000s, although a handful remain. The capital of Massachusetts is Boston. The seat of power is Beacon Hill, which is home to the legislative and executive branches. The Supreme Judicial Court occupies nearby Pemberton Hill. There are 151 departments or agencies in Massachusetts, and over 700 independent boards and commissions. The Governor exercises direct control over many of the largest agencies, but only indirect control over independent entities through appointments. The statewide elected officials are: Other elected officials are: Some executive agencies are delegated by the legislature with
+
+</information>
+
+","<think>I found out that the capital of Massachusetts is Boston. Now I can provide the answer.</think>
+
+<answer> Boston </answer>",,,,,,,Boston
+"What is the nickname for the state that is the home to the “Avocado Capital of the World""?",4,"<think>I need to find the nickname for the state that is the home to the ""Avocado Capital of the World"". I'll search for it.</think>
+
+<search> Avocado Capital of the World </search>
+
+
+<information>
+Doc 1 (Title: Avocado)
+Content: They are reported to exact 2000 Mexican pesos per hectare from avocado farmers and 1 to 3 pesos/kg of harvested fruit. The avocado was introduced from Mexico to California in the 19th century, and has become a successful cash crop. About – some 95% of United States avocado production – is located in Southern California, with 60% in San Diego County. Fallbrook, California, claims the title of ""Avocado Capital of the World"" (also claimed by the town of Uruapan in Mexico), and both Fallbrook and Carpinteria, California, host annual avocado festivals. Avocado is the official fruit of the State of
+
+Doc 2 (Title: Avocado)
+Content: India, Sri Lanka, Australia, New Zealand, the Philippines, Malaysia, Central America, the Caribbean, Mexico, southern California, Arizona, Puerto Rico, Texas, Florida, Hawaii, Ecuador, and Rwanda. Each region has different cultivars. Commercial orchards produce an average of seven tonnes per hectare each year, with some orchards achieving 20 tonnes per hectare. Biennial bearing can be a problem, with heavy crops in one year being followed by poor yields the next. Like the banana, the avocado is a climacteric fruit, which matures on the tree, but ripens off the tree. Avocados used in commerce are picked hard and green and kept in
+
+Doc 3 (Title: Avocado)
+Content: nutritional diseases (excesses and deficiencies of key minerals). Disease can affect all parts of the plant, causing spotting, rotting, cankers, pitting, and discoloration. Mexico is by far the world's largest avocado growing country, producing several times more than the second largest producer. In 2013, the total area dedicated to avocado production was 168,155 hectares (415,520 acres), and the harvest was 1.47 million tonnes. The states that produce the most are México, Morelos, Nayarit, Puebla, and Michoacan, accounting for 86% of the total. In Michoacán, the cultivation is complicated by the existence of drug cartels that extort protection fees from cultivators.
+
+</information>
+
+","<think>I found out that the Avocado Capital of the World is Fallbrook, California. Now I need to find the nickname for the state that is the home to Fallbrook, California.</think>
+
+<search> home to the ""Avocado Capital of the World"" </search>
+
+
+<information>
+Doc 1 (Title: Avocado)
+Content: They are reported to exact 2000 Mexican pesos per hectare from avocado farmers and 1 to 3 pesos/kg of harvested fruit. The avocado was introduced from Mexico to California in the 19th century, and has become a successful cash crop. About – some 95% of United States avocado production – is located in Southern California, with 60% in San Diego County. Fallbrook, California, claims the title of ""Avocado Capital of the World"" (also claimed by the town of Uruapan in Mexico), and both Fallbrook and Carpinteria, California, host annual avocado festivals. Avocado is the official fruit of the State of
+
+Doc 2 (Title: Avocado)
+Content: India, Sri Lanka, Australia, New Zealand, the Philippines, Malaysia, Central America, the Caribbean, Mexico, southern California, Arizona, Puerto Rico, Texas, Florida, Hawaii, Ecuador, and Rwanda. Each region has different cultivars. Commercial orchards produce an average of seven tonnes per hectare each year, with some orchards achieving 20 tonnes per hectare. Biennial bearing can be a problem, with heavy crops in one year being followed by poor yields the next. Like the banana, the avocado is a climacteric fruit, which matures on the tree, but ripens off the tree. Avocados used in commerce are picked hard and green and kept in
+
+Doc 3 (Title: Avocado)
+Content: nutritional diseases (excesses and deficiencies of key minerals). Disease can affect all parts of the plant, causing spotting, rotting, cankers, pitting, and discoloration. Mexico is by far the world's largest avocado growing country, producing several times more than the second largest producer. In 2013, the total area dedicated to avocado production was 168,155 hectares (415,520 acres), and the harvest was 1.47 million tonnes. The states that produce the most are México, Morelos, Nayarit, Puebla, and Michoacan, accounting for 86% of the total. In Michoacán, the cultivation is complicated by the existence of drug cartels that extort protection fees from cultivators.
+
+</information>
+
+","<think>I found out that the Avocado Capital of the World is Fallbrook, California. Now I need to find the nickname for the state that is the home to Fallbrook, California. I'll search for the nickname of the state.</think>
+
+<search> nickname for the state that is the home to Fallbrook, California </search>
+
+
+<information>
+Doc 1 (Title: ""Fallbrook, California"")
+Content: Fallbrook, California Fallbrook is a CDP in northern San Diego County, California. Fallbrook had a population of 30,534 at the 2010 census, up from 29,100 at the 2000 census. Fallbrook's downtown is not on any major highway route. It is west of Interstate 15 or north of State Route 76. Fallbrook is situated immediately east of the U.S. Marine Corps' Camp Pendleton. It once housed a stagecoach stop for the stage that ran from Temecula to San Diego. Fallbrook is known for its avocado groves and claims the title ""Avocado Capital of the World."" It is often called or known
+
+Doc 2 (Title: ""Fallbrook Union High School"")
+Content: the cost of a new auditorium/gymnasium/cafeteria, a pool and grading of a sports field. In 1934–1938, the student body voted on the school colors of red and white. The athletic teams were named ""The Warriors"" in honor of the large number of Native-Americans in the student body. In 1939, Fallbrook Union High School was rated the most outstanding high school in the country by Chicago Farm Foundation. In 1946, the State Department of Education rated Fallbrook to be the best small high school in California. In 1948, the State of California declared that the main part of the school building
+
+Doc 3 (Title: ""Fallbrook, California"")
+Content: as ""The Friendly Village."" The Avocado Festival is held in the downtown strip annually and frequently draws large crowds. The community of Fallbrook began in the area known today as Live Oak County Park. The first permanent recorded settlement was in 1869, when the Vital Reche family settled here. They named the new community Fall Brook after their former homestead in Pennsylvania. The present town site was plotted in 1885. The original Fallbrook School, though closed as a school in 1939, still serves the community as the Reche Clubhouse. One of the community’s churches was constructed in 1890 and is
+
+</information>
+
+","<think>I found out that the state home to Fallbrook, California, is California. Now I need to find the nickname for the state California.</think>
+
+<answer> Golden State </answer>",,,,,,,Golden State
+Which element has an atomic number that is double that of hydrogen?,4,"<think>I need to find the element with an atomic number that is double that of hydrogen. The atomic number of hydrogen is 1. I need to find an element with an atomic number that is 2 times 1.</think>
+
+<search> atomic number that is double that of hydrogen </search>
+
+
+<information>
+Doc 1 (Title: ""Hydrogen atom"")
+Content: permittivity, and formula_12 is the quantum number (now known as the principal quantum number). Bohr's predictions matched experiments measuring the hydrogen spectral series to the first order, giving more confidence to a theory that used quantized values. For formula_13, the value is called the Rydberg unit of energy. It is related to the Rydberg constant formula_15 of atomic physics by formula_16 The exact value of the Rydberg constant assumes that the nucleus is infinitely massive with respect to the electron. For hydrogen-1, hydrogen-2 (deuterium), and hydrogen-3 (tritium) the constant must be slightly modified to use the reduced mass of the
+
+Doc 2 (Title: Hydrogen)
+Content: Hydrogen Hydrogen is a chemical element with symbol H and atomic number 1. With a standard atomic weight of , hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass. Non-remnant stars are mainly composed of hydrogen in the plasma state. The most common isotope of hydrogen, termed ""protium"" (name rarely used, symbol H), has one proton and no neutrons. The universal emergence of atomic hydrogen first occurred during the recombination epoch. At standard temperature and pressure, hydrogen is a colorless,
+
+Doc 3 (Title: ""Atomic number"")
+Content: Atomic number The atomic number or proton number (symbol ""Z"") of a chemical element is the number of protons found in the nucleus of an atom. It is identical to the charge number of the nucleus. The atomic number uniquely identifies a chemical element. In an uncharged atom, the atomic number is also equal to the number of electrons. The sum of the atomic number ""Z"" and the number of neutrons, ""N"", gives the mass number ""A"" of an atom. Since protons and neutrons have approximately the same mass (and the mass of the electrons is negligible for many purposes)
+
+</information>
+
+","<think>I found out that the atomic number of hydrogen is 1. Now I need to find an element with an atomic number that is double that of hydrogen, which is 2.</think>
+
+<search> atomic number double that of hydrogen </search>
+
+
+<information>
+Doc 1 (Title: Hydrogen)
+Content: Hydrogen Hydrogen is a chemical element with symbol H and atomic number 1. With a standard atomic weight of , hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass. Non-remnant stars are mainly composed of hydrogen in the plasma state. The most common isotope of hydrogen, termed ""protium"" (name rarely used, symbol H), has one proton and no neutrons. The universal emergence of atomic hydrogen first occurred during the recombination epoch. At standard temperature and pressure, hydrogen is a colorless,
+
+Doc 2 (Title: ""Atomic number"")
+Content: Atomic number The atomic number or proton number (symbol ""Z"") of a chemical element is the number of protons found in the nucleus of an atom. It is identical to the charge number of the nucleus. The atomic number uniquely identifies a chemical element. In an uncharged atom, the atomic number is also equal to the number of electrons. The sum of the atomic number ""Z"" and the number of neutrons, ""N"", gives the mass number ""A"" of an atom. Since protons and neutrons have approximately the same mass (and the mass of the electrons is negligible for many purposes)
+
+Doc 3 (Title: ""Hydrogen atom"")
+Content: permittivity, and formula_12 is the quantum number (now known as the principal quantum number). Bohr's predictions matched experiments measuring the hydrogen spectral series to the first order, giving more confidence to a theory that used quantized values. For formula_13, the value is called the Rydberg unit of energy. It is related to the Rydberg constant formula_15 of atomic physics by formula_16 The exact value of the Rydberg constant assumes that the nucleus is infinitely massive with respect to the electron. For hydrogen-1, hydrogen-2 (deuterium), and hydrogen-3 (tritium) the constant must be slightly modified to use the reduced mass of the
+
+</information>
+
+","<think>I found out that the atomic number of hydrogen is 1. Now I need to find an element with an atomic number that is double that of hydrogen, which is 2. I need to find the element with an atomic number 2.</think>
+
+<search> element with atomic number 2 </search>
+
+
+<information>
+Doc 1 (Title: ""Period 2 element"")
+Content: Period 2 element A period 2 element is one of the chemical elements in the second row (or period) of the periodic table of the chemical elements. The periodic table is laid out in rows to illustrate recurring (periodic) trends in the chemical behavior of the elements as their atomic number increases; a new row is started when chemical behavior begins to repeat, creating columns of elements with similar properties. The second period contains the elements lithium, beryllium, boron, carbon, nitrogen, oxygen, fluorine, and neon. This situation can be explained by modern theories of atomic structure. In a quantum mechanical
+
+Doc 2 (Title: ""Period 2 element"")
+Content: protons and six neutrons. C is also stable, with six protons and seven neutrons, at 1.1%. Trace amounts of C also occur naturally but this isotope is radioactive and decays with a half life of 5730 years; it is used for radiocarbon dating. Other isotopes of carbon have also been synthesised. Carbon forms covalent bonds with other non-metals with an oxidation state of −4, −2, +2 or +4. Carbon is the fourth most abundant element in the universe by mass after hydrogen, helium and oxygen and is the second most abundant element in the human body by mass after oxygen,
+
+Doc 3 (Title: ""Period 2 element"")
+Content: groups; for example, fluorine is the most reactive halogen, neon is the most inert noble gas, and lithium is the least reactive alkali metal. All period 2 elements completely obey the Madelung rule; in period 2s, lithium and beryllium fill the 2s subshell, and boron, carbon, nitrogen, oxygen, fluorine, and neon fill the 2p subshell. The period shares this trait with periods 1 and 3, none of which contain transition elements or inner transition elements, which often vary from the rule. Lithium (Li) is an alkali metal with atomic number 3, occurring naturally in two isotopes: Li and Li. The
+
+</information>
+
+","<think>I found out that the element with an atomic number 2 is helium. Now I can provide the answer.</think>
+
+<answer> helium </answer>",,,,,,,helium
